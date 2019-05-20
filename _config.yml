@@ -1,9 +1,9 @@
 ---
 version: 3.8.5
 min_ruby_version: 2.4.0
-name: Nghe thuat ke toan • Simple, blog-aware, static sites
-description: Transform your plain text into static websites and blogs
-url: https://jekyllrb.com
+name: Nghệ thuật kế toán • Nghe thuat ke toan, kiến thức kế toán, kế toán chuyên nghiệp
+description: Tôn vinh ngành nghề kế toán, kế toán là nghệ thuật
+url: nghethuatketoan.vn
 repository: https://github.com/kerivietnam/nghethuatketoan.github.io
 timezone: America/Los_Angeles
 twitter:
