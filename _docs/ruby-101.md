@@ -1,45 +1,57 @@
 ---
-title: Ruby 101
+title: Khái Niệm Đơn Vị Kế Toán
 permalink: /docs/ruby-101/
 ---
 
-Jekyll is written in Ruby. If you're new to Ruby, this page is to help you get
-up to speed with some of the terminology.
+Khái niệm này tương đồng với khái niệm đơn vị kinh doanh. Theo
+khái niệm này, thông tin tài chính được phản ánh cho một đơn vị kế
+toán cụ thể. Mỗi đơn vị kinh tế riêng biệt phải được phân biệt là một
+đơn vị kế toán độc lập, có bộ báo cáo tài chính của riêng mình. Khái
+niệm đơn vị kế toán đòi hỏi các báo cáo tài chính được lập chỉ phản
+ánh các thông tin về tình hình tài chính của đơn vị kế toán mà không
+bao hàm thông tin tài chính về các chủ thể kinh tế khác như tài sản
+riêng của chủ sở hữu hay các thông tin tài chính của các đơn vị kinh tế
+độc lập khác. Nói cách khác khái niệm đơn vị kế toán quy định giới
+hạn về thông tin tài chính mà hệ thống kế toán cần phải thu thập và
+báo cáo. 
 
-## Gems
+##  Đơn vị thước đo tiền tệ
+Thông tin do kế toán cung cấp phải được thể hiện bằng thước đo
+tiền tệ. Kế toán lựa chọn và sử dụng một đơn vị tiền tệ làm thước đo.
+Thông thường thước đo tiền tệ được lựa chọn là đơn vị tiền tệ chính
+thức của quốc gia mà đơn vị kế toán đăng ký hoạt động. Mọi nghiệp
+vụ kinh tế phát sinh đều được tính toán và ghi chép bằng thước đo tiền
+tệ này. Khi ghi chép các nghiệp vụ kinh tế, kế toán chỉ chú ý đến giá
+thực tế tại thời điểm phát sinh mà không chú ý đến sự thay đổi sức
+mua của đồng tiền. 
 
-A gem is code you can include in Ruby projects. It allows you to package up functionality and share it across other projects or with other people. Gems can perform functionality such as:
+##  Giả định hoạt động liên tục
+Kế toán phải đặt giả thiết là doanh nghiệp sẽ hoạt động liên tục
+trong một thời gian vô hạn định hay sẽ hoạt động cho đến khi nào các
+tài sản cố định hoàn toàn bị hư hỏng và tất cả trách nhiệm cung cấp
+sản phẩm, hàng hóa hay dịch vụ của đơn vị đã được hoàn tất hoặc ít
+nhất là không bị giải thể trong tương lai gần.
+Giả định này được vận dụng trong việc định giá các loại tài sản
+đang sử dụng trong doanh nghiệp. Doanh nghiệp đang sử dụng cho
+nên chưa bán hoặc không thể bán được do đó giá trị của những tài sản
+này sẽ được tính toán và phản ánh trên cơ sở giá gốc và sự đã hao mòn
+do sử dụng. Tức là giá trị tài sản hiện còn là tính theo số tiền mà thực
+sự doanh nghiệp đã phải trả khi mua sắm hay xây dựng trừ đi giá trị đã
+hao mòn chứ không phải là giá mua bán ra trên thị trường. Mặt khác
+giả thiết về sự hoạt động lâu dài của doanh nghiệp còn là cơ sở cho
+các phương pháp tính khấu hao để phân chia giá phí của các loại tài
+sản cố định vào chi phí hoạt động của doanh nghiệp theo thời gian sử
+dụng của nó. 
 
-* Converting a Ruby object to JSON
-* Pagination
-* Interacting with APIs such as Github
-* Jekyll itself is a gem as well as many Jekyll plugins including
-[jekyll-feed](https://github.com/jekyll/jekyll-feed),
-[jekyll-seo-tag](https://github.com/jekyll/jekyll-seo-tag) and
-[jekyll-archives](https://github.com/jekyll/jekyll-archives).
-
-
-## Gemfile
-
-A `Gemfile` is a list of gems required for your site. For a simple Jekyll site it might look something like this:
-
-```ruby
-source 'https://rubygems.org'
-
-gem 'jekyll'
-
-group :jekyll_plugins do
-  gem 'jekyll-feed'
-  gem 'jekyll-seo-tag'
-end
-```
-
-## Bundler
-
-Bundler installs the gems in your `Gemfile`. It's not a requirement for you to use a `Gemfile` and `bundler` however it's highly recommended as it ensures you're running the same version of Jekyll and Jekyll plugins across different environments.
-
-`gem install bundler` installs [Bundler](https://rubygems.org/gems/bundler). You only need to install it once &mdash; not every time you create a new Jekyll project. Here are some additional details:
-
-If you're using a `Gemfile` you would first run `bundle install` to install the gems, then `bundle exec jekyll serve` to build your site. This guarantees you're using the gem versions set in the `Gemfile`. If you're not using a `Gemfile` you can just run `jekyll serve`.
-
-For more information about how to use Bundler in your Jekyll project, this [tutorial](/tutorials/using-jekyll-with-bundler/) should provide answers to the most common questions and explain how to get up and running quickly.
+## Khái niệm kỳ kế toán
+Thông thường, kỳ kế toán chính được tính theo năm dương lịch từ
+ngày 01 tháng 01 đến hết ngày 31 tháng 12 của năm. Trong từng năm
+có thể phân thành các kỳ tạm thời như tháng, quý. Thời gian để tính
+kỳ tạm thời là ngày đầu tiên của tháng, quý đến hết ngày cuối cùng
+của tháng, quý đó. Trong chế độ kế toán doanh nghiệp ngoài kỳ kế
+toán tính theo năm dương lịch, trong những trường hợp đặc biệt,
+doanh nghiệp có thể tính theo 12 tháng tròn sau khi đã thông báo cho
+cơ quan thuế và được phép thay đổi ngày kết thúc kỳ kế toán năm.
+Việc thay đổi này có thể dẫn đến việc lập báo cáo tài chính cho kỳ kế
+toán năm đầu tiên hay năm cuối cùng ngắn hơn hoặc dài hơn.12 tháng,
+nhưng không được vượt quá 15 tháng. 
