@@ -6,10 +6,18 @@ redirect_from:
   - /docs/quickstart/
   - /docs/extras/
 ---
-Jekyll is a simple, extendable, static site generator. You give it text written
-in your favorite markup language and it churns through layouts to create a
-static website. Throughout that process you can tweak how you want the site URLs
-to look, what data gets displayed in the layout, and more.
+Theo Luật Kế toán: “Kế toán là việc thu thập, xử
+lý, kiểm tra, phân tích và cung cấp thông tin kinh tế, tài chính dưới
+hình thức giá trị, hiện vật và thời gian lao động”.
+Cũng theo Luật Kế toán thì kế toán được chia ra 2 loại là kế toán
+tài chính và kế toán quản trị, trong đó:
+Kế toán tài chính là việc thu thập, xử lý, kiểm tra, phân tích và
+cung cấp thông tin kinh tế, tài chính bằng báo cáo tài chính cho đối
+tượng có nhu cầu sử dụng thông tin của đơn vị kế toán. 
+Kế toán quản trị là việc thu thập, xử lý, kiểm tra, phân tích và
+cung cấp thông tin kinh tế, tài chính theo yêu cầu quản trị và quyết
+định kinh tế, tài chính trong nội bộ đơn vị kế toán. Định nghĩa về kế
+toán trên nhấn mạnh đến công việc của những người làm công tác kế toán. 
 
 ## Instructions
 
