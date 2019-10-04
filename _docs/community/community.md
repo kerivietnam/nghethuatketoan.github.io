@@ -18,8 +18,6 @@ theo những báo cáo do giám đốc xí nghiệp quy định (đối với n�
 các cơ quan chức năng của nhà nước và những đối tượng trên quan
 như các nhà đầu tư, ngân hàng, người cung cấp.
 
- 
-
 ## 2. Nhiệm vụ của kế toán 
 Với chức năng phản ảnh và kiểm tra, cung cấp thông tin toàn bộ
 các hoạt động kinh tế của doanh nghiệp, kế toán có những nhiệm vụ
@@ -39,9 +37,6 @@ phát luật về tài chính, kế toán.
 SXKD, kiểm tra và phân tích hoạt động kinh tế, tài chính phục vụ
 công tác lập và theo dõi thực hiện kế hoạch phục vụ công tác thống kê
 và thông tin kinh tế. 
-
-
-
 
 ## 3. Yêu cầu đối với công tác kế toán 
 Để phát huy đầy đủ chức năng, vai trò và thực hiện đấy đủ các
