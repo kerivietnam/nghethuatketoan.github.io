@@ -1,91 +1,78 @@
 ---
 layout: step
-title: Setup
-menu_name: Step by Step Tutorial
+title:  1. Phương pháp chứng từ kế toán
+menu_name: Phương Pháp Kế Toán
 position: 1
 ---
-Welcome to Jekyll's step-by-step tutorial. The goal of this tutorial is to take
-you from having some front end web development experience to building your
-first Jekyll site from scratch — not relying on the default gem-based theme. 
-Let's get into it!
+Chứng từ kế toán là phương pháp thông tin và kiểm tra sự hình
+thành các nghiệp vụ kinh tế.
+Để phản ánh và có thể kiểm chứng được các nghiệp vụ kinh tế, kế
+toán có một phương pháp là: mọi nghiệp vụ kinh tế phát sinh đều phải
+lập các chứng từ là giấy tờ hoặc vật chứa đựng thông tin (vật mang
+tin), làm bằng chứng xác nhận sự phát sinh và hoàn thành của các
+nghiệp vụ kinh tế.
+Phương pháp chứng từ kế toán nhằm sao chụp nguyên tình trạng
+và sự vận động của các đối kế toán, được sử dụng để phản ánh các
+nghiệp vụ kinh tế tài chính phát sinh và thực sự hoàn thành theo thời
+gian, địa điểm phát sinh vào các bản chứng từ kế toán.
+Hệ thống chứng từ kế toán là căn cứ pháp lý cho việc bảo vệ tài
+sản và xác minh tính hợp pháp trong việc giải quyết các mối quan hệ
+kinh tế pháp lý thuộc đối tượng hạch toán kế toán, kiểm tra hoạt động
+sản xuất kinh doanh. 
+## 2. Phương pháp tính giá 
+Tính giá là phương pháp thông tin và kiểm tra về chi phí trực tiếp
+và gián tiếp cho từng loại hoạt động, từng loại tài sản như: tài sản cố
+định, hàng hoá, vật tư, sản phẩm và lao vụ…
+Phương pháp tính giá sử dụng thước đo tiền tệ để tính toán, xác
+định giá trị của từng loại tài sản của đơn vị thông qua việc mua vào,
+nhận góp vốn, được cấp, được tài trợ hoặc sản xuất ra theo những
+nguyên tắc nhất định. 
 
-## Installation
+## 3. Phương pháp đối ứng tài khoản
+Đối ứng tài khoản là phương pháp thông tin và kiểm tra quá trình
+vận động của mỗi loại tài sản, nguồn vốn và quá trình kinh doanh theo
+mối quan hệ biện chứng được phản ánh vào trong mỗi nghiệp vụ kinh
+tế phát sinh.
+Phương pháp đối ứng tài khoản được hình thành bởi cặp phương
+pháp tài khoản và ghi sổ kép. Trong đó:
+- Phương pháp tài khoản: Là phương pháp phân loại và hệ thống
+hóa các nghiệp vụ kinh tế phát sinh theo từng nội dung kinh tế, nhằm
+theo dõi tình hình biến động của từng loại tài sản, nguồn vốn, từng nội
+dung thu, chi... trong quá trình sản xuất kinh doanh của đơn vị.
+- Phương pháp ghi sổ kép: Là phương pháp phản ánh sự biến
+động của các đối tượng kế toán, theo từng nghiệp vụ kinh tế phát sinh,
+trong mối liên hệ khách quan giữa chúng, bằng cách ghi số tiền kép
+(một số tiền ghi 2 lần) vào các tài khoản kế toán liên quan. 
 
-Jekyll is a Ruby program so you need to install Ruby on your machine to begin
-with. Head over to the [install guide](/docs/installation/) and follow the
-instructions for your operating system.
-
-With Ruby setup you can install Jekyll by running the following in your
-terminal:
-
-```
-gem install jekyll bundler
-```
-
-To create a new `Gemfile` to list your project's dependencies run:
-
-```
-bundle init
-```
-
-Now edit the `Gemfile`and add jekyll as a dependency:
-
-```
-gem "jekyll"
-```
-
-Finally run `bundle` to install jekyll for your project.
-
-You can now prefix all jekyll commands listed in this tutorial with `bundle exec` 
-to make sure you use the jekyll version defined in your `Gemfile`.
-
-## Create a site
-
-It's time to create a site! Create a new directory for your site, you can name
-it whatever you'd like. Through the rest of this tutorial we'll refer to this
-directory as “root”.
-
-If you're feeling adventurous, you can also initialize a Git repository here.
-One of the great things about Jekyll is there's no database. All content and
-site structure are files which a Git repository can version. Using a repository
-is completely optional but it's a great habit to get into. You can learn more
-about using Git by reading through the
-[Git Handbook](https://guides.github.com/introduction/git-handbook/).
-
-Let's add your first file. Create `index.html` in the root with the following
-content:
-
-```html
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Home</title>
-  </head>
-  <body>
-    <h1>Hello World!</h1>
-  </body>
-</html>
-```
-
-## Build
-
-Jekyll is a static site generator so we need Jekyll to build the site
-before we can view it. There are two commands you can run in the root of your site
-to build it:
-
-* `jekyll build` - Builds the site and outputs a static site to a directory
-called `_site`.
-* `jekyll serve` - Does the same thing except it rebuilds any time you make
-a change and runs a local web server at `http://localhost:4000`.
-
-When you're developing a site you'll use `jekyll serve` as it updates with any
-changes you make.
-
-Run `jekyll serve` and go to
-<a href="http://localhost:4000" target="_blank" data-proofer-ignore>http://localhost:4000</a> in
-your browser. You should see "Hello World!".
-
-Well, you might be thinking what's the point in this? Jekyll just copied an
-HTML file from one place to another. Well patience young grasshopper, there's
-still much to learn!
+## 4. Phương pháp tổng hợp và cân đối kế toán 
+Tổng hợp và cân đối kế toán là phương pháp khái quát tình hình
+tài sản, nguồn vốn và kết quả hoạt động sản xuất kinh doanh của đơn
+vị hạch toán qua từng thời kỳ nhất định bằng cách lập các báo cáo có
+tính tổng hợp và cân đối như: bảng cân đối kế toán; báo cáo kết quả
+hoạt động kinh doanh; báo cáo lưu chuyển tiền tệ...
+Mỗi phương pháp có vị trí, chức năng nhất định nhưng giữa chúng
+lại có mối quan hệ chặt chế với nhau tạo thành một hệ thống phương
+pháp kế toán.
+Muốn có những thông tin tổng hợp về tình trạng tài chính của đơn
+vị thì phải lập bảng cân đối tài sản tức là sử dụng phương pháp tổng
+hợp và cân đối kế toán. Nhưng chỉ có thể tổng hợp và cân đối các loại
+tài sản của doanh nghiệp trên cơ sở theo dõi chặt chẽ sự hình thành và
+vận động biến đổi của các loại tài sản qua các giai đoạn sản xuất kinh
+doanh. Việc ghi chép vào các tài khoản kế toán bắt buộc phải dùng
+đơn vị đo lường là tiền tệ do đó cần phải tính giá các yếu tố đầu vào
+và đầu ra của quá trình sản xuất kinh doanh.
+Muốn tính giá và ghi chép vào các tài khoản có liên quan một
+cách chính xác thì phải có những thông tin chính xác về từng hoạt
+động kinh tế cụ thể của đơn vị tức là phải có những chứng từ hợp lệ
+phản ánh nguyên vẹn nghiệp vụ kinh tế phát sinh và có đầy đủ cơ sở
+pháp lý để làm căn cứ ghi sổ kế toán. Nhưng nếu chỉ dựa vào chứng từ
+thì không thể phản ánh hết sự biến đổi của tài sản. Trong thực tế có
+những hiện tượng không thống nhất giữa hiện vật với chứng từ, sổ
+sách do điều kiện khách quan gây ra như: đường dôi thừa do ẩm ướt,
+xăng dầu bị hao hụt do bốc hơi... Để khắc phục tình trạng trên kế toán
+phải tiến hành kiểm kê để kiểm tra số lượng và tình hình cụ thể của hiện
+vật, đối chiếu giữa sổ sách với thực tế trong từng thời điểm có khớp
+đúng với nhau hay không. Nếu không khớp đúng thì lập biên bản và căn
+cứ vào biên bản (cũng là chứng từ) mà điều chỉnh lại sổ sách kế toán cho
+khớp với thực tế. Bảo đảm cho các số liệu của kế toán phản ánh chính
+xác và trung thực về các loại tài sản của doanh nghiệp. 
