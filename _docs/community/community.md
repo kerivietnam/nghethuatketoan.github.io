@@ -101,6 +101,5 @@ Nhưng yêu cầu trên đối với kế toán đều phải được thực hi
 đủ. Tuy nhiên trong từng giai đoạn phát triển và mục đích sử dụng
 thông tin kế toán mà yêu cáu này hay yêu cầu khác có được chú trọng
 hơn.
-V. 
 
  
