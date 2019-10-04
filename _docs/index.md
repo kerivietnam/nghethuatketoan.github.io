@@ -1,5 +1,5 @@
 ---
-title: Quickstart
+title: Khái Niệm Nguyên Lý Kế Toán
 permalink: /docs/
 redirect_from:
   - /docs/home/
