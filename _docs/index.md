@@ -6,7 +6,7 @@ redirect_from:
   - /docs/quickstart/
   - /docs/extras/
 ---
-Theo Luật Kế toán: “Kế toán là việc thu thập, xử
+Theo luật kế toán: “Kế toán là việc thu thập, xử
 lý, kiểm tra, phân tích và cung cấp thông tin kinh tế, tài chính dưới
 hình thức giá trị, hiện vật và thời gian lao động”.
 Cũng theo Luật Kế toán thì kế toán được chia ra 2 loại là kế toán
