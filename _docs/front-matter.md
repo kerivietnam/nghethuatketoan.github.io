@@ -1,211 +1,89 @@
 ---
-title: Front Matter
+title: Tính Giá Vật Tư Hàng Hóa Mua Vào
 permalink: /docs/front-matter/
 redirect_from: /docs/frontmatter/index.html
 ---
 
-Any file that contains a [YAML](http://yaml.org/) front matter block will be
-processed by Jekyll as a special file. The front matter must be the first thing
-in the file and must take the form of valid YAML set between triple-dashed
-lines. Here is a basic example:
 
-```yaml
----
-layout: post
-title: Blogging Like a Hacker
----
-```
+ * Tài sản mua vào của doanh nghiệp gồm nhiều loại và sử dụng cho những mục đích khác nhau theo đó việc tính giá cũng có sự khác biệt nhưng đều phải tuân thủ nguyên tắc chung là phản ánh được toàn bộ các chi phí đã chi ra để có được tài sản đó (nguyên tắc giá phí). Có thể khái quát trình tự tính giá tài sản mua vào theo 3 bước sau: 
 
-Between these triple-dashed lines, you can set predefined variables (see below
-for a reference) or even create custom ones of your own. These variables will
-then be available to you to access using Liquid tags both further down in the
-file and also in any layouts or includes that the page or post in question
-relies on.
 
 <div class="note warning">
-  <h5>UTF-8 Character Encoding Warning</h5>
+  <h5></h5>
   <p>
-    If you use UTF-8 encoding, make sure that no <code>BOM</code> header
-    characters exist in your files or very, very bad things will happen to
-    Jekyll. This is especially relevant if you’re running
-    <a href="/docs/installation/windows/">Jekyll on Windows</a>.
+  Bước 1 : Xác định giá mua của tài sản: 
   </p>
 </div>
 
-<div class="note">
-  <h5>ProTip™: Front Matter Variables Are Optional</h5>
+<div class="note warning">
+  <h5></h5>
   <p>
-    If you want to use <a href="/docs/variables/">Liquid tags and variables</a>
-    but don’t need anything in your front matter, just leave it empty! The set
-    of triple-dashed lines with nothing in between will still get Jekyll to
-    process your file. (This is useful for things like CSS and RSS feeds!)
+ Bước 2: Tập hợp và phân bổ chi phí liên quan đến tài sản mua vào 
   </p>
 </div>
-
-## Predefined Global Variables
-
-There are a number of predefined global variables that you can set in the
-front matter of a page or post.
-
-<div class="mobile-side-scroller">
-<table>
-  <thead>
-    <tr>
-      <th>Variable</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <p><code>layout</code></p>
-      </td>
-      <td>
-        <p>
-
-          If set, this specifies the layout file to use. Use the layout file
-          name without the file extension. Layout files must be placed in the
-          <code>_layouts</code> directory.
-
-        </p>
-        <ul>
-          <li>
-            Using <code>null</code> will produce a file without using a layout
-            file. This is overridden if the file is a post/document and has a
-            layout defined in the <a href="/docs/configuration/front-matter-defaults/">
-            front matter defaults</a>.
-          </li>
-          <li>
-            Starting from version 3.5.0, using <code>none</code> in a post/document will
-            produce a file without using a layout file regardless of front matter defaults.
-            Using <code>none</code> in a page will cause Jekyll to attempt to
-            use a layout named "none".
-          </li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p><code>permalink</code></p>
-      </td>
-      <td>
-        <p>
-
-          If you need your processed blog post URLs to be something other than
-          the site-wide style (default <code>/year/month/day/title.html</code>), then you can set
-          this variable and it will be used as the final URL.
-
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p><code>published</code></p>
-      </td>
-      <td>
-        <p>
-          Set to false if you don’t want a specific post to show up when the
-          site is generated.
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div class="note">
-  <h5>ProTip™: Render Posts Marked As Unpublished</h5>
+<div class="note warning">
+  <h5></h5>
   <p>
-    To preview unpublished pages, run `jekyll serve` or `jekyll build`
-    with the `--unpublished` switch. Jekyll also has a handy <a href="/docs/posts/#drafts">drafts</a>
-    feature tailored specifically for blog posts.
+Bước 3: Tổng hợp chi phí và tính giá thực tế cho từng tài sản cần tính giá: 
   </p>
 </div>
-
-## Custom Variables
-
-You can also set your own front matter variables you can access in Liquid. For
-instance, if you set a variable called `food`, you can use that in your page:
 
 {% raw %}
 ```liquid
 ---
-food: Pizza
+Ví dụ 1: 
+Doanh nghiệp HY mua vật liệu phục vụ cho sản xuất sản phẩm 
+thuộc diện chịu thuế GTGT theo phương pháp khấu trừ:  
++ Vật liệu A: 1.000 tấn, đơn giá mua chưa VAT là 200.000đ/tấn, 
+VAT: 10%. 
++ Vật liệu B: 500 tấn, đơn giá mua chưa VAT là 100.000đ/tấn, 
+VAT: 10%. 
+Chi phí vận chuyển số vật liệu trên (giá chưa thuế 1 000đ/tấn) là 
+1.500.000đ chưa kể 5 % VAT. 
+Yêu cầu: 
+Tính toán và lập bảng tính giá thực tế vật liệu mua vào cho hai 
+loại vật liệu A và B. Biết chi phí vận chuyển phân bổ cho hai loại vật 
+liệu theo tiêu thức số lượng 
+Giải. 
+- Giá mua vật liệu là giá không có thuế GTGT:  
++ Vật liệu A: 1.000 x 200.000 = 200.000.000đ  
++ Vật liệu B: 500 x 100.000 = 50.000.000đ 
+- Chi phí vận chuyển cũng không gồm thuế GTGT và được Phân 
+bổ cho hai loại vật liệu theo tiêu thức sỏ lượng như sau:  
++ Vật liệu A : 1.000/ (1.000+500) x 1.500.000 = 1.000.000đ  
++ Vật liệu B : 1.500.000 - 1.000.000 = 500.000đ  
+Tổng hợp và tính giá thực tế mua của hai loại vật liệu: 
++ Vật liệu A : 200.000.000 + 1.000.000 = 201.000.000đ  
++ Vật liệu B : 50.000.000 + 500.000 = 50.500.000đ  
 ---
 
-<h1>{{ page.food }}</h1>
 ```
 {% endraw %}
 
-## Predefined Variables for Posts
 
-These are available out-of-the-box to be used in the front matter for a post.
+ 
+ {% raw %}
+```liquid
+---
+Ví dụ 2: 
+Doanh nghiệp mua một thiết bị sản xuất với giá mua chưa có thuế 
+GTGT là 100.000.000đ, thuế suất thuế GTGT là 10%. Chi phí thuê 
+vận chuyển thiết bị về doanh nghiệp là 2.000.000đ. Chi phí thuê cẩu 
+thiết  bị  lên  và  xuống  ô  tô  là  1.000.000đ.  Chí  phí  thuê  chuyên  gia 
+hướng dẫn vận hành là 5.000.000đ. Chi phí vận hành thử thiết bị hết 
+13.500.000đ, quá trình chạy thử thiết bị thu được một số sản phẩm giá 
+bán ước tính là 8.500.000đ. Sản phẩm thuộc diện chịu thuế GTGT. 
+Yêu  cầu:  Tính  giá  thực  tế  thiết  bị  sản  xuất  trên  khi  mua  về 
+(nguyên giá). 
+a) Trường hợp doanh nghiệp tính thuế GTGT theo phương pháp 
+khấu trừ trị giá thực tế của thiết bị mua về là giá chưa có thuế GTGT: 
+100.000.000 + 2.000.000 + 1.000.000 + 5.000.000 + (13.500.000 
+- 8.500.000) = 113.000.000đ. 
+b) Trường hợp doanh nghiệp tính thuế GTGT theo phương pháp 
+trực  tiếp trị  giá thực tế của thiết bị  mua  về là giá bao gồm cả thuế 
+GTGT: 
+(100.000  v  +  10%  x  100.000.000)  +  2.000.000  +  100.000  + 5.000.000 + (13.500.000 - 8.500.000) = 123.000.000đ. 
+---
 
-<div class="mobile-side-scroller">
-<table>
-  <thead>
-    <tr>
-      <th>Variable</th>
-      <th>Description</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <p><code>date</code></p>
-      </td>
-      <td>
-        <p>
-          A date here overrides the date from the name of the post. This can be
-          used to ensure correct sorting of posts. A date is specified in the
-          format <code>YYYY-MM-DD HH:MM:SS +/-TTTT</code>; hours, minutes, seconds, and timezone offset
-          are optional.
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p><code>category</code></p>
-        <p><code>categories</code></p>
-      </td>
-      <td>
-        <p>
-
-          Instead of placing posts inside of folders, you can specify one or
-          more categories that the post belongs to. When the site is generated
-          the post will act as though it had been set with these categories
-          normally. Categories (plural key) can be specified as a <a
-          href="https://en.wikipedia.org/wiki/YAML#Basic_components">YAML list</a> or a
-          space-separated string.
-
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p><code>tags</code></p>
-      </td>
-      <td>
-        <p>
-
-          Similar to categories, one or multiple tags can be added to a post.
-          Also like categories, tags can be specified as a <a
-          href="https://en.wikipedia.org/wiki/YAML#Basic_components">YAML list</a> or a
-          space-separated string.
-
-        </p>
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div class="note">
-  <h5>ProTip™: Don't repeat yourself</h5>
-  <p>
-    If you don't want to repeat your frequently used front matter variables
-    over and over, define <a href="/docs/configuration/front-matter-defaults/" title="Front Matter defaults">defaults</a>
-    for them and only override them where necessary (or not at all). This works
-    both for predefined and custom variables.
-  </p>
-</div>
+```
+{% endraw %}
