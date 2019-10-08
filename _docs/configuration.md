@@ -22,7 +22,7 @@ Kiểm kê là việc kiểm tra tại chỗ các loại tài sản hiện có n
 * Giúp cho lãnh đạo nắm chính xác số lượng, chất lượng các loại tài sản hiện có, phát hiện tài sản ứ đọng để có biện pháp giải quyết thích hợp nhằm nâng cao hiện quả sử dụng vốn. 
 
 ## 3. Phân loại kiểm kê 
-# 3.1. Phân theo phạm vi kiểm kê 
+### 3.1. Phân theo phạm vi kiểm kê 
 * Kiểm kê toàn diện: Là kiểm kê toàn bộ các tài sản của đơn vị 
 (bao gồm: tài  sản cố  định, vật tư, thành  phẩm, vốn bằng tiền, công 
 nợ...). Loại kiểm kê này, mỗi năm tiến hành ít nhất một lần trước khi 
@@ -32,7 +32,7 @@ vụ yêu cầu quản lý. VD như: khi có nghiệp vụ bàn giao tài sản,
 muốn  xác  định  chính  xác  một  loại  tài  sản  nào  đó,  khi  thấy  có  hiện 
 tượng mất trộm cắp ở một kho nào đó. 
 
-# 3.2. Phân loại theo thời gian tiến hành 
+### 3.2. Phân loại theo thời gian tiến hành 
 * Kiểm kê định kỳ là kiểm kê theo kỳ hạn đã quy định trước như: 
 kiểm kê hàng ngày đối với tiền mặt, hàng tuần đối với tiền gửi ngân 
 hàng, hàng tháng đối với sản phẩm, hàng hoá, hàng quý đối với tài sản 
