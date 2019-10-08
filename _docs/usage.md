@@ -41,7 +41,7 @@ nhiệm liên quan đến chứng từ. `
 ```
 
 ## 3. Kiểm tra và xử lý chứng từ kế toán 
-# 3.1. Kiểm tra chứng từ 
+### 3.1. Kiểm tra chứng từ 
 Nội  dung  của  việc kiểm tra chứng từ kế toán bao gồm: 
 - Kiểm tra tính chính xác của số liệu thông tin trên chứng từ  
 - Kiểm tra tính hợp pháp, hợp lệ của nghiệp vụ kinh tế phát sinh 
@@ -49,7 +49,7 @@ Nội  dung  của  việc kiểm tra chứng từ kế toán bao gồm:
 trên chứng từ. 
 - Kiểm tra việc chấp hành quy chế quản lý nội bộ, kiểm tra xét 
 duyệt đối với từng loại nghiệp vụ kinh tế tài chính.  
-# 3.2. Danh mục chứng từ kế toán doanh nghiệp  
+### 3.2. Danh mục chứng từ kế toán doanh nghiệp  
 Hệ thống chứng từ kế toán bao gồm danh mục chứng từ, các mẫu biểu chứng từ và cách ghi chép từng chứng từ. Danh mục chứng từ kế toán bao gồm 37 mẫu biểu được chia thành 5 loại: 
 `Loại 1 - Lao động tiền lương gồm 12 chứng từ  `
 `Loại 2 - Hàng tồn kho gồm 7 chứng từ `
