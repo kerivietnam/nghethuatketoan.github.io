@@ -4,17 +4,14 @@ permalink: /docs/configuration/
 ---
 
 ## 1. Nội dung công tác kiểm kê 
-```sh
+
 Kiểm kê là việc kiểm tra tại chỗ các loại tài sản hiện có nhằm xác định chính thức số thực có tài sản trong thực tế, phát hiện các khoản chênh lệnh giữa số thực tế so với số liệu trên sổ sách kế toán. 
-```
 
 * Nhưng giữa số liệu trên sổ sách kế toán với thực tế vẫn có thể phát sinh chênh lệnh do một số nguyên nhân sau đây: 
-```sh
 -  Tài  sản  (vật  liệu,  sản  phẩm,  hàng  hóa...)  bị  tác  động  của  môi trường tự nhiên làm cho hư hao, xuống cấp.
 - Thủ kho, thủ quỹ có thể nhầm lẫn về mặt chủng loại, thiếu chính xác về mặt số lượng khi nhập, xuất, thu, chi... 
 - Kế toán tính toán, ghi chép trên sồ sách có sai sót. 
 - Các hành vi tham ô, gian lận, trộm cắp. 
-```
 
 ## 2. Tác dụng của kiểm kê 
 *  Ngăn ngừa các  hiện tượng tham  ô, lãng phí  làm  thất thoát tài sản, các hiện tượng vi phạm kỷ luật tài chính, nâng cao trách nhiệm của người quản lý tài sản. 
