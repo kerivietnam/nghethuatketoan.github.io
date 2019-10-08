@@ -20,7 +20,7 @@ chứng từ kế toán phải có đầy đủ các yếu tố sau đây:
 nhiệm liên quan đến chứng từ. `
 
 ## 2. Phân loại chứng từ kế toán 
-* 2.1. Phân loại theo công dụng của chứng từ 
+### 2.1. Phân loại theo công dụng của chứng từ 
  
  - Chứng từ mệnh lệnh: Là loại chứng từ dùng để truyền đạt những mệnh lệnh hay chỉ thị của người lãnh đạo cho các bộ phận cấp dưới thi hành như: Lệnh chi tiền mặt; lệnh xuất kho vật tư. Loại chứng từ này chỉ mới chứng minh nghiệp vụ kinh tế phát sinh nhưng chưa nói tới mức độ hoàn thành của nghiệp vụ, do đó chưa đủ điều kiện ghi chép thanh toán vào sổ sách kế toán. 
  - Chứng từ chấp hành: Là những chứng từ chứng minh cho một nghiệp vụ kinh tế nào đó đã thực sự hoàn thành như: phiếu thu tiền mặt, phiếu chi tiền mặt, phiếu xuất kho... Chứng từ chấp hành cùng với chứng từ mệnh lệnh có đủ điều kiện được dùng làm căn cứ ghi sổ kế toán.
@@ -28,13 +28,13 @@ nhiệm liên quan đến chứng từ. `
  - Chứng từ liên hợp: Là loại chứng từ mang đặc điểm của 2 hoặc 3 loại chứng từ nói trên như: Hóa đơn kiêm phiếu xuất kho phiếu xuất vật tư theo hạn mức... 
 
 
-* 2.2. Phân loại theo trình tự lập chứng từ 
+### 2.2. Phân loại theo trình tự lập chứng từ 
 
 - Chứng từ ban đầu (còn gọi là chứng từ gốc): Là những chứng từ được lập trực tiếp khi nghiệp vụ kinh tế phát sinh hay vừa hoàn thành. Chứng từ ban đầu gồm tất cả các loại hóa đơn, phiếu xuất nhập vật tư, lệnh thu chi tiền mặt... ``
 - Chứng từ tổng hợp: Là loại chứng từ dùng để tổng hợp số liệu của các nghiệp vụ kinh tế cùng loại nhằm giảm nhẹ công tác kế toán và đơn giản trong việc ghi sổ như: Bảng tổng hợp chứng từ gốc hay bảng kê phân loại chứng từ gốc. Chứng từ tổng hợp chỉ có các giá trị pháp lý khi có chứng từ ban đầu kèm theo.
 
 
-* 2.3. Phân loại theo phương thức lập chứng từ  
+### 2.3. Phân loại theo phương thức lập chứng từ  
 
 - Chứng từ một lần: Là loại chứng từ mà việc ghi chép nghiệp vụ kinh tế phát sinh chỉ tiến hành một lần, sau đó được chuyển vào ghi sổ kế toán. 
 - Chứng từ nhiều lần: Là loại  chứng từ  ghi  một loại nghiệp vụ kinh tế tiếp diễn nhiều lần. Sau mỗi lần ghi các con số được cộng dồn tới một giới hạn đã được xác định trước được chuyển vào ghi vào sổ kế toán. 
