@@ -60,11 +60,3 @@ thanh tra, kiểm tra.
 
 
 
-* [Configuration Options](/docs/configuration/options/)
-* [Default Configuration](/docs/configuration/default/)
-* [Front Matter Defaults](/docs/configuration/front-matter-defaults/)
-* [Environments](/docs/configuration/environments/)
-* [Markdown Options](/docs/configuration/markdown/)
-* [Liquid Options](/docs/configuration/liquid/)
-* [Webrick Options](/docs/configuration/webrick/)
-* [Incremental Regeneration](/docs/configuration/incremental-regeneration/)
