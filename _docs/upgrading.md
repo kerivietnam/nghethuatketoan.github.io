@@ -30,7 +30,7 @@ kế toán, thường là tăng lên hay giảm xuống.
   <h5>2.1. Tài khoản thuộc bảng cân đối kế toán </h5>
 </div>
 
-### a) Tài khoản tài sản: 
+### a) Tài khoản tài sản
 
 ```
 + Số dư đầu kỳ phản ánh thực có về các loại tài sản lúc đầu kỳ 
@@ -46,7 +46,7 @@ bên Có.
 được liệt kê trên bảng cân đối kế toán cột số cuối kỳ và sẽ trở thành số 
 dư đầu kỳ của tài khoản ở kỳ tiếp theo.  
 ```
-### b) Tài khoản nguồn vốn: 
+### b) Tài khoản nguồn vốn
 
 ```
 + Số dư đầu kỳ phản ánh số thực có về các loại nguồn vốn lúc đầu 
