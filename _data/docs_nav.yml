@@ -30,7 +30,7 @@
     # - link: /docs/pagination/
 - title: Tài Khoản Và Ghi Sổ Kép
   docs:
-    - link: /docs/plugins/
-    - link: /docs/migrations/
+    # - link: /docs/plugins/
+    # - link: /docs/migrations/
     - link: /docs/upgrading/
     - link: /docs/deployment/
