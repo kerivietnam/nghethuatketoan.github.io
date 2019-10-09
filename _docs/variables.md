@@ -1,47 +1,46 @@
 ---
-title: Variables
+title: Báo Các Kết Quả Hoạt Động Kinh Doanh
 permalink: /docs/variables/
 ---
 
-Jekyll traverses your site looking for files to process. Any files with
-[front matter](/docs/front-matter/) are subject to processing. For each of these
-files, Jekyll makes a variety of data available via the [Liquid](/docs/liquid/).
-The following is a reference of the available data.
-
-## Global Variables
-
-{% include docs_variables_table.html scope=site.data.jekyll_variables.global %}
-
-## Site Variables
-
-{% include docs_variables_table.html scope=site.data.jekyll_variables.site %}
-
-## Page Variables
-
-{% include docs_variables_table.html scope=site.data.jekyll_variables.page %}
 
 <div class="note">
-  <h5>ProTip™: Use Custom Front Matter</h5>
+  <h5> 1. Khái niệm và tác dụng của báo cáo kết quả hoạt động kinh doanh </h5>
   <p>
-    Any custom front matter that you specify will be available under
-    <code>page</code>. For example, if you specify <code>custom_css: true</code>
-    in a page’s front matter, that value will be available as <code>page.custom_css</code>.
-  </p>
-  <p>
-    If you specify front matter in a layout, access that via <code>layout</code>.
-    For example, if you specify <code>class: full_page</code> in a layout’s front matter,
-    that value will be available as <code>layout.class</code> in the layout and its parents.
+    Khái niệm: Báo cáo kết quả hoạt động kinh doanh là báo cáo tài 
+chính tổng hợp, phản ánh tổng quát tình hình và kết quả kinh doanh 
+trong  một  kỳ  hoạt  động  của  doanh  nghiệp  và  chi  tiết  cho  các  hoạt 
+động kinh doanh chính. Nói cách khác báo cáo kết quả hoạt động kinh 
+doanh là phương tiện trình bày khả năng sinh lời và thực trạng hoạt 
+động kinh doanh của doanh nghiệp. 
   </p>
 </div>
 
-## Paginator
+```sh
+- Tính cân đối: Báo cáo kết quả hoạt động kinh doanh được lập 
+dựa trên tính cân đối giữa doanh thu, chi phí và kết quả kinh doanh. 
+Có thể khái quát chung tính cân đối của báo cáo kết quả kinh doanh 
+qua công thức sau: 
+Tổng DT thuần =Tổng chi phí  +Tổng lợi nhuận  
+Trong đó: 
+Doanh thu thuần =Doanh thu tiêu thụ  - Các khoản giảm trừ  
+Các khoản giảm trừ thường bao gồm 04 khoản sau:  
+Các khoản giảm trừ = Chiết khấu thương mại + Giảm giá hàng bán + Hàng bán bị trả lại + Thuế TTĐB, thuế XK 
 
-{% include docs_variables_table.html scope=site.data.jekyll_variables.paginator %}
+```
 
 <div class="note info">
-  <h5>Paginator variable availability</h5>
+  <h5>2. Nội dung và kết cấu của báo cáo kết quả hoạt động kinh </h5>
   <p>
-    These are only available in index files, however they can be located in a subdirectory,
-    such as <code>/blog/index.html</code>.
+*(1) Doanh thu bán hàng và cung cấp dịch vụ (Mã số 01) : Chỉ tiêu 
+này phản ánh tổng doanh thu bán hàng hoá, thành phẩm, bất động sản 
+đầu tư và cung cấp dịch vụ trong năm báo cáo của doanh nghiệp. <br>
+*(2) Các khoản giảm trừ doanh thu (Mã số 02): Chỉ tiêu này phản 
+ánh tổng hợp các khoản được ghi giảm trừ vào tổng doanh thu trong 
+năm, bao gồm: các khoản chiết khấu thương mại, giảm giá hàng bán, 
+hàng bán bị trả lại và thuế tiêu thụ đặc biệt, thuế xuất khẩu... <br>
+*(3) Doanh thu thuần về bán hàng và cung cấp dịch vụ (Mã số 10): 
+Chỉ tiêu này phản ánh số doanh thu bán hàng hoá, thành phẩm, BĐS 
+đầu tư và cung cấp dịch vụ đã trừ các khoản trừ.  
   </p>
 </div>
