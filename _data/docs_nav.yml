@@ -15,9 +15,9 @@
     - link: /docs/posts/
     - link: /docs/front-matter/
     - link: /docs/collections/
-    - link: /docs/datafiles/
-    - link: /docs/assets/
-    - link: /docs/static-files/
+    # - link: /docs/datafiles/
+    # - link: /docs/assets/
+    # - link: /docs/static-files/
 - title: Tổng Hợp Và Cân Đối Kế Toán
   docs:
     - link: /docs/structure/
