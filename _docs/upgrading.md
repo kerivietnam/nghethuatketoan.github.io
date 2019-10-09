@@ -1,30 +1,77 @@
 ---
 layout: docs
-title: Upgrading
+title: Tài Khoản
 permalink: /docs/upgrading/
 ---
 
-Upgrading from an older version of Jekyll? Upgrading to a new major version of
-Jekyll (e.g. from v2.x to v3.x) may cause some headaches. Take the following
-guides to aid your upgrade:
-
-- [From 0.x to 1.x and 2.x](/docs/upgrading/0-to-2/)
-- [From 2.x to 3.x](/docs/upgrading/2-to-3/)
-- [From 3.x to 4.x](/docs/upgrading/3-to-4/)
-
-## Minor updates
+## 1. Khái niệm, nội dung và kết cấu của tài khoản  
 
 <div class="note">
-  <h5>Stay Up to Date</h5>
-  <p>We recommend you update Jekyll as often as possible to benefit from
-  the latest bug fixes.
+  <h5>1.1. Khái niệm về tài khoản </h5>
+  <p> Tài khoản là phương pháp phân loại, hệ thống hoá các 
+      nghiệp  vụ  kinh  tế  phát  sinh  riêng  biệt  theo  từng  đối  tượng  ghi 
+      của hạch toán kết toán (tài sản, nguồn vốn và các quá trình kinh doanh) 
+      nhằm phục vụ Yêu cầu quản lý của các chủ thể quản lý khác nhau. 
   </p>
 </div>
 
-If you followed our setup recommendations and installed [Bundler](http://bundler.io/), run `bundle update jekyll` or simply `bundle update` and all your gems will
-update to the latest versions.
+<div class="note">
+  <h5>1.2. Kết cấu chung của tài khoản </h5>
+  <p> Tài khoản là một trang sổ kế toán được chia làm 2 phần, phần bên 
+trái gọi là bên Nợ, phần bên phải gọi là bên Có. Hai bên Nợ, Có phản 
+ánh hai hướng vận động biến đổi khác nhau của cùng một đối tượng 
+kế toán, thường là tăng lên hay giảm xuống.  
+  </p>
+</div>
 
-If you don't have Bundler installed, run `gem update jekyll`.
+## 2. Phân loại tài khoản 
 
-The procedure is similar [if you use the `github-pages`
-gem](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/#keeping-your-site-up-to-date-with-the-github-pages-gem).
+<div class="note">
+  <h5>2.1. Tài khoản thuộc bảng cân đối kế toán </h5>
+</div>
+
+### a) Tài khoản tài sản: 
+
+```
++ Số dư đầu kỳ phản ánh thực có về các loại tài sản lúc đầu kỳ 
+được phản ảnh ở cột đầu kỳ của bảng cân đối kế toán sẽ được chuyển 
+thành số dư đầu kỳ của các tài khoản tài sản ở bên Nợ. 
++ Số tăng lên của tài sản do các nghiệp vụ kinh tế phát sinh tạo ra 
+làm tăng giá trị tài sản nên được ghi cùng bên với số dư đầu kỳ tức là 
+bên Nợ. 
++ Số giảm xuống của tài sản do các nghiệp vụ kinh tế phát sinh 
+tạo ra làm giảm giá trị tài sản nên được ghi khác bên với số dư tức là 
+bên Có. 
++ Số dư cuối kỳ là số tài sản hiện có vào thời điểm cuối kỳ nên 
+được liệt kê trên bảng cân đối kế toán cột số cuối kỳ và sẽ trở thành số 
+dư đầu kỳ của tài khoản ở kỳ tiếp theo.  
+```
+### b) Tài khoản nguồn vốn: 
+
+```
++ Số dư đầu kỳ phản ánh số thực có về các loại nguồn vốn lúc đầu 
+kỳ  được  phản  ánh  ở  cột  đầu  kỳ  của  bảng  cân  đối  kế  toán  sẽ  được 
+chuyển thành số dư đầu kỳ của các tài khoản nguồn vốn ghi ở bên Có. 
++ Số tăng lên của nguồn vốn do nghiệp vụ kinh tế phát sinh tạo ra 
+làm tăng giá trị nguồn vốn nên được ghi cùng bên với số dư là bên Có. 
++ Số giảm xuống của nguồn vốn do nghiệp vụ kinh tế phát sinh 
+tạo ra làm giảm giá trị nguồn vốn được ghi khác bên với số dư tức là 
+bên Nợ. 
++ Số dư cuối kỳ là nguồn vốn hiện có vào thời điểm cuối kỳ nên 
+sẽ được phản ánh trên bảng cân đối kế toán cột số cuối kỳ và sẽ trở 
+thành số dư đầu kỳ của tài khoản ở kỳ sau.  
+```
+
+<div class="note">
+  <h5>2.2. Tài khoản thuộc báo cáo kết quả hoạt động kinh doanh  </h5>
+  <p> - Đối với tài khoản xác định kết quả kinh doanh:  <br>
+Doanh  thu  và  chi  phí  kinh  doanh  có  mối  quan  hệ  mật  thiết  với 
+nhau và thường được báo cáo theo từng kỳ kế toán, số liệu của các tài 
+khoản  doanh  thu  và  chi  phí  sẽ  được  kết  chuyển  sang  tài  khoản  xác 
+định kết quả vào lúc cuối kỳ để tính lãi, lỗ. Nếu doanh thu lớn hơn chi 
+phí thì có kết quả lãi, ngược lại nếu chi phí lớn hơn doanh thu thì có 
+kết quả lỗ. Kết quả lãi hay lỗ trong kỳ sẽ được chuyển sang tài khoản 
+lợi  nhuận  chưa  phân  phối  để  làm  tăng  hay  giảm  nguồn  vốn  chủ  sở 
+hữu. Do đó tài khoản xác định kết quả cũng không có số dư lúc cuối 
+kỳ. </p>
+</div>
