@@ -12,6 +12,9 @@ some of the most popular Jekyll resources.
 ## Themes
 - [jekyllthemes.org](http://jekyllthemes.org/)
 - [jekyllthemes.io](https://jekyllthemes.io/)
+<div class="note">
+  <h5>2.1. Tài khoản thuộc bảng cân đối kế toán </h5>
+</div>
 
 ## Plugins
 - [jekyll-plugin topic on GitHub](https://github.com/topics/jekyll-plugin)
