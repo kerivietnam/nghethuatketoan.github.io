@@ -1,26 +1,28 @@
 ---
-title: "Security Fixes for series 3.6, 3.7 and 3.8"
-date: 2018-09-19 18:00:00 +0530
-author: ashmaroli
-category: release
-version: 3.8.4
+title: "Tiêu Chuẩn Và Điều Kiện Kế Toán Trưởng"
+date: 2019-10-21 18:00:00 +0530
+author: KT
+category: Tiêu Chuẩn và Điều Kiện
+version: Tiêu Chuẩn và Điều Kiện KTT
 ---
 
-Hi Jekyllers,
+### Các quy định về Tiêu chuẩn và điều kiện của kế toán trưởng được quy định chi tiết trong
+Ðiều 53 của Luật kế toán như sau: :sparkles:
 
-We have patched a **critical vulnerability** reported to GitHub a couple of weeks ago and have released a set of new gems to
-bring that patch to you. The vulnerability allowed arbitrary file reads with the cunning use of the `include:` setting in the
-config file.
+<div class="note">
+  <h3> 1. Kế toán trưởng phải có các tiêu chuẩn sau đây:</h3>
+  <p>a) Các tiêu chuẩn quy định tại khoản 1 Ðiều 50 của Luật này;</p><br>
+  <p>b) Có chuyên môn, nghiệp vụ về kế toán từ bậc trung cấp trở lên;</p><br>
+  <p>c) Thời gian công tác thực tế về kế toán ít nhất là hai năm đối với người có chuyên môn,
+nghiệp vụ về kế toán từ trình độ đại học trở lên và thời gian công tác thực tế về kế toán
+ít nhất là ba năm đối với người có chuyên môn, nghiệp vụ về kế toán bậc trung cấp.</p>
+</div>
 
-By simply including a symlink in the `include` array allowed the symlinked file to be read into the build when they shouldn't
-actually be read in any circumstance.  
-Further details regarding the patch can be viewed at the [pull request URL]({{ site.repository }}/pull/7224)
+<div class="note">
+  <h3>2. Người làm kế toán trưởng phải có chứng chỉ qua lớp bồi dưỡng kế toán trưởng.</h3>
+</div>
 
-The patch has been released as versions `3.6.3`, `3.7.4` and `3.8.4`.  
-Thanks to @parkr `v3.7.4` was released a couple of weeks prior and has been bundled with `github-pages-v192`.
-
-
-Please keep in mind that this issue affects _all previously released Jekyll versions_. If you have not had
-a good reason to upgrade to `3.6`, `3.7` or `3.8` yet, we advise that you do so at the earliest.
-
-As always, Happy Jekylling! :sparkles:
+<div class="note">
+  <h3>3. Chính phủ quy định cụ thể tiêu chuẩn và điều kiện của kế toán trưởng phù hợp với
+từng loại đơn vị kế toán.</h3>
+</div>
