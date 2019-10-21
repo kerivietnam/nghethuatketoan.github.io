@@ -11,12 +11,12 @@
     <h4>Chi Tiết</h4>
     <ul>
       {% for post in site.categories.release limit:5 %}
-      <li {%- if page.title == post.title %} class="current" {%- endif %}>
+      <li>
         <a href="{{ post.url }}"> {{ post.version }}</a>
       </li>
       {% endfor %}
       <li>
-        <a href="/docs/history/">Lịch Sử »</a>
+        <a href="/docs/history/">Trách Nhiệm Và Quyền »</a>
       </li>
     </ul>
   </aside>
