@@ -7,7 +7,7 @@
     - link: /docs/step-by-step/01-phuong-phap-chung-tu-ke-toan/
 - title: Chứng Từ Kế Toán Và Kiểm Kê
   docs:
-    - link: /docs/usage/
+    - link: /docs/chung-tu-ke-toan/
     - link: /docs/configuration/
 - title: Tính Giá Đối Tượng Kế Toán
   docs:
