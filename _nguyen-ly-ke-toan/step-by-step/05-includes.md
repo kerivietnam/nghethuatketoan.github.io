@@ -57,7 +57,7 @@ in your browser and try switching between the pages.
 Let's take this a step further and highlight the current page in the navigation.
 
 `_includes/navigation.html` needs to know the URL of the page it's inserted into
-so it can add styling. Jekyll has useful [variables](/nguyen-ly-ke-toan/variables/) available
+so it can add styling. Jekyll has useful [variables](/docs/variables/) available
 one of which is `page.url`.
 
 Using `page.url` you can check if each link is the current page and color it red

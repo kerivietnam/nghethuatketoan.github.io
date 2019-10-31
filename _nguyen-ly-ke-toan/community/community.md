@@ -1,6 +1,6 @@
 ---
 title: Nhiệm Vụ - Yêu Cầu - Đặc Điểm
-permalink: /nguyen-ly-ke-toan/Nhiem vu - Yeu cau - Dac diem ke toan/
+permalink: /docs/Nhiem vu - Yeu cau - Dac diem ke toan/
 redirect_from: "/help/index.html"
 ---
 

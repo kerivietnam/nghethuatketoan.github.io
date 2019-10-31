@@ -1,6 +1,6 @@
 ---
 title: Liquid Options
-permalink: "/nguyen-ly-ke-toan/configuration/liquid/"
+permalink: "/docs/configuration/liquid/"
 ---
 Liquid's response to errors can be configured by setting `error_mode`. The
 options are

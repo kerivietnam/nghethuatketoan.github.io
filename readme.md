@@ -4,7 +4,7 @@ This directory contains the code for the Jekyll docs site, [jekyllrb.com](https:
 
 ## Contributing
 
-For information about contributing, see the [Contributing page](https://jekyllrb.com/nguyen-ly-ke-toan/contributing/).
+For information about contributing, see the [Contributing page](https://jekyllrb.com/docs/contributing/).
 
 ## Running locally
 

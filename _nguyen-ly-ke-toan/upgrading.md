@@ -1,7 +1,7 @@
 ---
 layout: docs
 title: Tài Khoản
-permalink: /nguyen-ly-ke-toan/upgrading/
+permalink: /docs/upgrading/
 ---
 
 ## 1. Khái niệm, nội dung và kết cấu của tài khoản  

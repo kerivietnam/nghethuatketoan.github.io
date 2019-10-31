@@ -1,6 +1,6 @@
 ---
 title: Your first plugin
-permalink: /nguyen-ly-ke-toan/plugins/your-first-plugin/
+permalink: /docs/plugins/your-first-plugin/
 ---
 
 Plugins allow you to extend Jekyll's behavior to fit your needs. There are six
@@ -8,7 +8,7 @@ types of plugins in Jekyll.
 
 ## Generators
 
-[Generators](/nguyen-ly-ke-toan/plugins/generators/) create content on your site.
+[Generators](/docs/plugins/generators/) create content on your site.
 For example:
 
 * [jekyll-feed](https://github.com/jekyll/jekyll-feed) creates an Atom feed of
@@ -19,7 +19,7 @@ pages for blog categories and tags.
 
 ## Converters
 
-[Converters](/nguyen-ly-ke-toan/plugins/converters/) change a markup language into another
+[Converters](/docs/plugins/converters/) change a markup language into another
 format. For example:
 
 * [jekyll-textile-converter](https://github.com/jekyll/jekyll-textile-converter)
@@ -31,7 +31,7 @@ JavaScript.
 
 ## Commands
 
-[Commands](/nguyen-ly-ke-toan/plugins/commands/) extend the `jekyll` executable with
+[Commands](/docs/plugins/commands/) extend the `jekyll` executable with
 subcommands. For example:
 
 * [jekyll-compose](https://github.com/jekyll/jekyll-compose) adds subcommands
@@ -39,7 +39,7 @@ for creating a post, page or draft.
 
 ## Tags
 
-[Tags](/nguyen-ly-ke-toan/plugins/tags/) create custom Liquid tags. For example:
+[Tags](/docs/plugins/tags/) create custom Liquid tags. For example:
 
 * [jekyll-youtube](https://github.com/dommmel/jekyll-youtube) embeds a YouTube
 video.
@@ -50,7 +50,7 @@ object.
 
 ## Filters
 
-[Filters](/nguyen-ly-ke-toan/plugins/filters/) create custom Liquid filters. For example:
+[Filters](/docs/plugins/filters/) create custom Liquid filters. For example:
 
 * [jekyll-time-ago](https://github.com/markets/jekyll-timeago) - The distance
 between two dates in words.
@@ -61,7 +61,7 @@ Obfuscates emails to protect them from spam bots.
 
 ## Hooks
 
-[Hooks](/nguyen-ly-ke-toan/plugins/hooks/) give fine-grained control to extend the build
+[Hooks](/docs/plugins/hooks/) give fine-grained control to extend the build
 process.
 
 ## Flags
@@ -128,7 +128,7 @@ end
 The guides help you with the specifics of creating plugins. We also have some
 recommended best practices to help structure your plugin.
 
-We recommend using a [gem](/nguyen-ly-ke-toan/Khai-niem-don-vi-ke-toan/#gems) for your plugin. This will
+We recommend using a [gem](/docs/Khai-niem-don-vi-ke-toan/#gems) for your plugin. This will
 help you manage dependencies, keep separation from your site source code and
 allow you to share functionality across multiple projects. For tips on creating
 a gem take a look a the

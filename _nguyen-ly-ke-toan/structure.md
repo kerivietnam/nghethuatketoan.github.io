@@ -1,6 +1,6 @@
 ---
 title: Phương Pháp Tổng Hợp Và Cân Đối Kế Toán
-permalink: /nguyen-ly-ke-toan/structure/
+permalink: /docs/structure/
 ---
 
 <div class="note info">

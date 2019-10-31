@@ -1,6 +1,6 @@
 ---
 title: Pagination
-permalink: /nguyen-ly-ke-toan/pagination/
+permalink: /docs/pagination/
 ---
 
 With many websites &mdash; especially blogs &mdash; it’s very common to

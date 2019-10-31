@@ -1,6 +1,6 @@
 ---
 title: Automated Deployment
-permalink: /nguyen-ly-ke-toan/deployment/automated/
+permalink: /docs/deployment/automated/
 ---
 There are a number of ways to easily automate the deployment of a Jekyll site.
 
@@ -15,9 +15,9 @@ service of your choice.
 
 We have guides for the following providers:
 
-* [Travis CI](/nguyen-ly-ke-toan/continuous-integration/travis-ci/)
-* [CircleCI](/nguyen-ly-ke-toan/continuous-integration/circleci/)
-* [Buddy](/nguyen-ly-ke-toan/continuous-integration/buddyworks/)
+* [Travis CI](/docs/continuous-integration/travis-ci/)
+* [CircleCI](/docs/continuous-integration/circleci/)
+* [Buddy](/docs/continuous-integration/buddyworks/)
 
 ## Git post-receive hook
 

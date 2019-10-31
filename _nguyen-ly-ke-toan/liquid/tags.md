@@ -1,16 +1,16 @@
 ---
 title: Tags Filters
-permalink: "/nguyen-ly-ke-toan/liquid/tags/"
+permalink: "/docs/liquid/tags/"
 ---
 All of the standard Liquid
 [tags](https://shopify.github.io/liquid/tags/control-flow/) are supported.
 Jekyll has a few built in tags to help you build your site. You can also create
-your own tags using [plugins](/nguyen-ly-ke-toan/plugins/).
+your own tags using [plugins](/docs/plugins/).
 
 ## Includes
 
 If you have page snippets that you use repeatedly across your site, an
-[include](/nguyen-ly-ke-toan/includes/) is the perfect way to make this more maintainable.
+[include](/docs/includes/) is the perfect way to make this more maintainable.
 
 ## Code snippet highlighting
 
@@ -48,7 +48,7 @@ The argument to the `highlight` tag (`ruby` in the example above) is the
 language identifier. To find the appropriate identifier to use for the language
 you want to highlight, look for the “short name” on the [Rouge
 wiki](https://github.com/jayferd/rouge/wiki/List-of-supported-languages-and-lexers)
-or the [Pygments' Lexers page](http://pygments.org/nguyen-ly-ke-toan/lexers/).
+or the [Pygments' Lexers page](http://pygments.org/docs/lexers/).
 
 <div class="note info">
   <h5>Jekyll processes all Liquid filters in code blocks</h5>

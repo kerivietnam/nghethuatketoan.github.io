@@ -1,6 +1,6 @@
 ---
 title: Generators
-permalink: /nguyen-ly-ke-toan/plugins/generators/
+permalink: /docs/plugins/generators/
 ---
 
 You can create a generator when you need Jekyll to create additional content
@@ -18,7 +18,7 @@ instances of
 and are available via `site.pages`. Static files become instances of
 [`Jekyll::StaticFile`]({{ site.repository }}/blob/master/lib/jekyll/static_file.rb)
 and are available via `site.static_files`. See
-[the Variables documentation page](/nguyen-ly-ke-toan/variables/) and
+[the Variables documentation page](/docs/variables/) and
 [`Jekyll::Site`]({{ site.repository }}/blob/master/lib/jekyll/site.rb)
 for more details.
 

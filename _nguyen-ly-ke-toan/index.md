@@ -1,10 +1,10 @@
 ---
 title: Khái Niệm Nguyên Lý Kế Toán
-permalink: /nguyen-ly-ke-toan/
+permalink: /docs/
 redirect_from:
-  - /nguyen-ly-ke-toan/home/
-  - /nguyen-ly-ke-toan/quickstart/
-  - /nguyen-ly-ke-toan/extras/
+  - /docs/home/
+  - /docs/quickstart/
+  - /docs/extras/
 ---
 Theo luật kế toán: “Kế toán là việc thu thập, xử
 lý, kiểm tra, phân tích và cung cấp thông tin kinh tế, tài chính dưới

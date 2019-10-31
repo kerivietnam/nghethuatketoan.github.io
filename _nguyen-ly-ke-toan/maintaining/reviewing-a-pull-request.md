@@ -7,7 +7,7 @@ title: "Reviewing a Pull Request"
 
 ## Respond Kindly
 
-Above all else, please review a pull request kindly. Our community can only be strong if we make it a welcoming and inclusive environment. To further promote this, the Jekyll community is governed by a [Code of Conduct](/nguyen-ly-ke-toan/conduct/) by which all community members must abide.
+Above all else, please review a pull request kindly. Our community can only be strong if we make it a welcoming and inclusive environment. To further promote this, the Jekyll community is governed by a [Code of Conduct](/docs/conduct/) by which all community members must abide.
 
 Use emoji liberally :heart: :tada: :sparkles: :confetti_ball: and feel free to be emotive!! Contributions keep this project moving forward and we're always happy to receive them, even if the pull request isn't ultimately merged.
 

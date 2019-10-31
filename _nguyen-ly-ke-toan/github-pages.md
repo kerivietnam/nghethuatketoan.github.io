@@ -1,6 +1,6 @@
 ---
 title: GitHub Pages
-permalink: /nguyen-ly-ke-toan/github-pages/
+permalink: /docs/github-pages/
 ---
 
 [GitHub Pages](https://pages.github.com) are public web pages for users,
@@ -58,7 +58,7 @@ Be sure to run `bundle update` often.
 Sometimes it's nice to preview your Jekyll site before you push your `gh-pages`
 branch to GitHub. The subdirectory-like URL structure GitHub uses for
 Project Pages complicates the proper resolution of URLs. In order to assure your
-site builds properly, use the handy [URL filters](/nguyen-ly-ke-toan/liquid/filters/):
+site builds properly, use the handy [URL filters](/docs/liquid/filters/):
 
 {% raw %}
 ```liquid
@@ -122,7 +122,7 @@ to see more detailed examples.
   <h5>Source files must be in the root directory</h5>
   <p>
     GitHub Pages <a href="https://help.github.com/articles/troubleshooting-github-pages-build-failures#source-setting">overrides</a>
-    the <a href="/nguyen-ly-ke-toan/configuration/>“Site Source”</a>
+    the <a href="/docs/configuration/>“Site Source”</a>
     configuration value, so if you locate your files anywhere other than the
     root directory, your site may not build correctly.
   </p>
@@ -135,6 +135,6 @@ to see more detailed examples.
     While Windows is not officially supported, it is possible
     to install the <code>github-pages</code> gem on Windows.
     Special instructions can be found on our
-    <a href="/nguyen-ly-ke-toan/Mot-so-nguyen-tac-ke-toan/windows/">Windows-specific docs page</a>.
+    <a href="/docs/Mot-so-nguyen-tac-ke-toan/windows/">Windows-specific docs page</a>.
   </p>
 </div>

@@ -1,36 +1,36 @@
 - title: Đối tượng Nhiệm Vụ Phương Pháp Kế Toán
   docs:
-    - link: /nguyen-ly-ke-toan/
-    - link: /nguyen-ly-ke-toan/Khai-niem-don-vi-ke-toan/
-    - link: /nguyen-ly-ke-toan/Mot-so-nguyen-tac-ke-toan/
-    - link: /nguyen-ly-ke-toan/Nhiem vu - Yeu cau - Dac diem ke toan/
-    - link: /nguyen-ly-ke-toan/step-by-step/01-phuong-phap-chung-tu-ke-toan/
+    - link: /docs/
+    - link: /docs/Khai-niem-don-vi-ke-toan/
+    - link: /docs/Mot-so-nguyen-tac-ke-toan/
+    - link: /docs/Nhiem vu - Yeu cau - Dac diem ke toan/
+    - link: /docs/step-by-step/01-phuong-phap-chung-tu-ke-toan/
 - title: Chứng Từ Kế Toán Và Kiểm Kê
   docs:
-    - link: /nguyen-ly-ke-toan/chung-tu-ke-toan/
-    - link: /nguyen-ly-ke-toan/configuration/
+    - link: /docs/chung-tu-ke-toan/
+    - link: /docs/configuration/
 - title: Tính Giá Đối Tượng Kế Toán
   docs:
-    - link: /nguyen-ly-ke-toan/pages/
-    - link: /nguyen-ly-ke-toan/posts/
-    - link: /nguyen-ly-ke-toan/front-matter/
-    - link: /nguyen-ly-ke-toan/collections/
-    # - link: /nguyen-ly-ke-toan/datafiles/
-    # - link: /nguyen-ly-ke-toan/assets/
-    # - link: /nguyen-ly-ke-toan/static-files/
+    - link: /docs/pages/
+    - link: /docs/posts/
+    - link: /docs/front-matter/
+    - link: /docs/collections/
+    # - link: /docs/datafiles/
+    # - link: /docs/assets/
+    # - link: /docs/static-files/
 - title: Tổng Hợp Và Cân Đối Kế Toán
   docs:
-    - link: /nguyen-ly-ke-toan/structure/
-    - link: /nguyen-ly-ke-toan/liquid/
-    - link: /nguyen-ly-ke-toan/variables/
-    # - link: /nguyen-ly-ke-toan/includes/
-    - link: /nguyen-ly-ke-toan/layouts/
-    # - link: /nguyen-ly-ke-toan/permalinks/
-    # - link: /nguyen-ly-ke-toan/themes/
-    # - link: /nguyen-ly-ke-toan/pagination/
+    - link: /docs/structure/
+    - link: /docs/liquid/
+    - link: /docs/variables/
+    # - link: /docs/includes/
+    - link: /docs/layouts/
+    # - link: /docs/permalinks/
+    # - link: /docs/themes/
+    # - link: /docs/pagination/
 - title: Tài Khoản Và Ghi Sổ Kép
   docs:
-    # - link: /nguyen-ly-ke-toan/plugins/
-    # - link: /nguyen-ly-ke-toan/migrations/
-    - link: /nguyen-ly-ke-toan/upgrading/
-    - link: /nguyen-ly-ke-toan/deployment/
+    # - link: /docs/plugins/
+    # - link: /docs/migrations/
+    - link: /docs/upgrading/
+    - link: /docs/deployment/

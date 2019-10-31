@@ -1,6 +1,6 @@
 ---
 title: Manual Deployment
-permalink: /nguyen-ly-ke-toan/deployment/manual/
+permalink: /docs/deployment/manual/
 ---
 
 Jekyll generates your static site to the `_site` directory by default. You can

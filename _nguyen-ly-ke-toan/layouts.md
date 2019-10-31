@@ -1,7 +1,7 @@
 ---
 title: Báo Cáo Lưu Chuyển Tiền Tệ
 description: placeholder
-permalink: /nguyen-ly-ke-toan/layouts/
+permalink: /docs/layouts/
 ---
 
 

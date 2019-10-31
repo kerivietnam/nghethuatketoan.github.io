@@ -1,7 +1,7 @@
 ---
 title: Hệ Thống Tài Khoản Kế Toán
-permalink: /nguyen-ly-ke-toan/deployment/
-redirect_from: "/nguyen-ly-ke-toan/deployment-methods/index.html"
+permalink: /docs/deployment/
+redirect_from: "/docs/deployment-methods/index.html"
 ---
 
 <div class="note">

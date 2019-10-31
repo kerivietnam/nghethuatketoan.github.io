@@ -1,7 +1,7 @@
 ---
 title: Tính Giá Vật Tư Hàng Hóa Mua Vào
-permalink: /nguyen-ly-ke-toan/front-matter/
-redirect_from: /nguyen-ly-ke-toan/frontmatter/index.html
+permalink: /docs/front-matter/
+redirect_from: /docs/frontmatter/index.html
 ---
 
 

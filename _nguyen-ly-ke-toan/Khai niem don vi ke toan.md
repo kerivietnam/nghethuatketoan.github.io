@@ -1,6 +1,6 @@
 ---
 title: Khái Niệm Đơn Vị Kế Toán
-permalink: /nguyen-ly-ke-toan/Khai-niem-don-vi-ke-toan/
+permalink: /docs/Khai-niem-don-vi-ke-toan/
 ---
 
 Khái niệm này tương đồng với khái niệm đơn vị kinh doanh. Theo

@@ -1,6 +1,6 @@
 ---
 title: Hooks
-permalink: /nguyen-ly-ke-toan/plugins/hooks/
+permalink: /docs/plugins/hooks/
 ---
 
 Using hooks, your plugin can exercise fine-grained control over various aspects

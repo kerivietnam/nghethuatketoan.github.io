@@ -61,7 +61,7 @@ layout: default
 
 # {% raw %}{{ page.title }}{% endraw %}
 
-Content is written in [Markdown](https://learnxinyminutes.com/nguyen-ly-ke-toan/markdown/). Plain text format allows you to focus on your **content**.
+Content is written in [Markdown](https://learnxinyminutes.com/docs/markdown/). Plain text format allows you to focus on your **content**.
 
 <!--
 You can use HTML elements in Markdown, such as the comment element, and they won't be affected by a markdown parser. However, if you create an HTML element in your markdown file, you cannot use markdown syntax within that element's contents.
@@ -75,14 +75,14 @@ cd my_jekyll_site
 jekyll serve
 ```
 
-If you have a Gemfile, [use Bundler](/nguyen-ly-ke-toan/Khai-niem-don-vi-ke-toan/#bundler) by typing `bundle exec jekyll serve` instead.
+If you have a Gemfile, [use Bundler](/docs/Khai-niem-don-vi-ke-toan/#bundler) by typing `bundle exec jekyll serve` instead.
 {: .note .info}
 
 When you serve the site, you get a preview URL such as `http://127.0.0.1:4000/` (which is the same as `http://localhost:4000/`). The site's files are built into the `_site` folder by default.
 
 This is a Jekyll site at the most basic functional level. Here's what is happening:
 
-  * The `_config.yml` file contains settings that Jekyll uses as it processes your site. An empty config file will use default values for building a Jekyll site. For example, to convert [Markdown](https://learnxinyminutes.com/nguyen-ly-ke-toan/markdown/) to HTML, Jekyll will automatically use the [kramdown Markdown filter](https://rubygems.org/gems/kramdown/), without any need to specify it.
+  * The `_config.yml` file contains settings that Jekyll uses as it processes your site. An empty config file will use default values for building a Jekyll site. For example, to convert [Markdown](https://learnxinyminutes.com/docs/markdown/) to HTML, Jekyll will automatically use the [kramdown Markdown filter](https://rubygems.org/gems/kramdown/), without any need to specify it.
   * Jekyll looks for files with [front matter tags]({% link _docs/front-matter.md %}) (the two sets of dashed lines `---` like those in `index.md`) and processes the files (populating site variables, rendering any [Liquid](https://shopify.github.io/liquid/), and converting Markdown to HTML).
   * Jekyll pushes the content from all pages and posts into the `{% raw %}{{ content }}{% endraw %}` variable in the layout specified (`default`) in the front matter tags.
   * The processed files get written as `.html` files in the `_site` directory.
@@ -102,13 +102,13 @@ Regardless of the site, do check the license and make sure you have permission t
 
 Copy and paste the source code into a file called `default.html`. Put the `default.html` file inside the `_layouts` folder. This will be the default layout template for your pages and posts &mdash; that is, each page or post will use this layout when Jekyll builds the site.
 
-Note that in looking for templates, you want the HTML output of the template. If the template has PHP tags or other dynamic scripts, these dynamic elements will need to be converted to HTML or to [Liquid](https://shopify.github.io/liquid/). Liquid is [Jekyll templating system](/nguyen-ly-ke-toan/liquid/) to retrieve dynamic content.
+Note that in looking for templates, you want the HTML output of the template. If the template has PHP tags or other dynamic scripts, these dynamic elements will need to be converted to HTML or to [Liquid](https://shopify.github.io/liquid/). Liquid is [Jekyll templating system](/docs/liquid/) to retrieve dynamic content.
 
 Open `default.html` into your browser locally to ensure the site looks and behaves like it does online. You will likely need to adjust CSS, JS, and image paths so they work.
 
 For example, if the paths were relative on the site you copied, you'll need to either download the same assets into your Jekyll site or use absolute paths to the same assets in the cloud. (Syntax such as `src="//` requires a prefix such as `src="http://` to work in your local browser.)
 
-Jekyll provides some [filters](/nguyen-ly-ke-toan/liquid/filters) to prepend a site URL before path. For example, you could preface your stylesheet like this:
+Jekyll provides some [filters](/docs/liquid/filters) to prepend a site URL before path. For example, you could preface your stylesheet like this:
 
 ```liquid
 {% raw %}{{ "/assets/style.css" | relative_url }}{% endraw %}
@@ -202,7 +202,7 @@ layout: homepage
 
 This page would then use the `homepage.html` template in the `_layouts` folder.
 
-You can even set [default front matter tags](/nguyen-ly-ke-toan/configuration/front-matter-defaults/) for pages, posts, or [collections]({% link _docs/collections.md %}) in your `_config.yml` file so that you don't have to specify the layout in the front matter variables. Anyways, setting defaults is beyond the scope of this tutorial, let's get back to work.
+You can even set [default front matter tags](/docs/configuration/front-matter-defaults/) for pages, posts, or [collections]({% link _docs/collections.md %}) in your `_config.yml` file so that you don't have to specify the layout in the front matter variables. Anyways, setting defaults is beyond the scope of this tutorial, let's get back to work.
 
 ## 6. Configure site variables
 
@@ -366,7 +366,7 @@ To manage page links this way, create a folder in your Jekyll project called `_d
 ```
 
 {: .note .info}
-If you never wrote any YAML before, you'll get quickly familiar with it. Take a look at [what you can do with YAML](https://learnxinyminutes.com/nguyen-ly-ke-toan/yaml/).
+If you never wrote any YAML before, you'll get quickly familiar with it. Take a look at [what you can do with YAML](https://learnxinyminutes.com/docs/yaml/).
 
 You can store additional properties for each item in this data file as desired. Arrange the list items in the order you want them to appear.
 
@@ -513,7 +513,7 @@ Although websites can implement more sophisticated features and functionality, w
 
 To deploy your site, consider using [GitHub Pages](https://pages.github.com/), [Netlify](https://www.netlify.com/), [Amazon AWS S3](https://aws.amazon.com/s3/) using the [s3_website plugin](https://github.com/laurilehmijoki/s3_website), or just FTP your files to your web server.
 
-You can also package your layouts, includes and assets into a Ruby `gem` and [make it a Jekyll theme](/nguyen-ly-ke-toan/themes/).
+You can also package your layouts, includes and assets into a Ruby `gem` and [make it a Jekyll theme](/docs/themes/).
 
 ## Additional resources
 

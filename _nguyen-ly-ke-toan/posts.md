@@ -1,8 +1,8 @@
 ---
 title: Tính Giá Tài Sản Cố Định
-permalink: /nguyen-ly-ke-toan/posts/
+permalink: /docs/posts/
 redirect_from:
-  - /nguyen-ly-ke-toan/drafts/
+  - /docs/drafts/
 ---
 
 ## 1. Tài sản cố định hữu hình 

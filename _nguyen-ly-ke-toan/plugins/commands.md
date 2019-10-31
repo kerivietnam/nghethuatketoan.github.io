@@ -1,6 +1,6 @@
 ---
 title: Commands
-permalink: /nguyen-ly-ke-toan/plugins/commands/
+permalink: /docs/plugins/commands/
 ---
 As of version 2.5.0, Jekyll can be extended with plugins which provide
 subcommands for the `jekyll` executable. This is possible by including the

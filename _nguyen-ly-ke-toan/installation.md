@@ -1,7 +1,7 @@
 ---
 title: Một Số Nguyên Tắc Kế Toán
 description: Official guide to install Jekyll on macOS, GNU/Linux or Windows.
-permalink: /nguyen-ly-ke-toan/Mot-so-nguyen-tac-ke-toan/
+permalink: /docs/Mot-so-nguyen-tac-ke-toan/
 ---
 
 

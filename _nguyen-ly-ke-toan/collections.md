@@ -1,6 +1,6 @@
 ---
 title: Tính Giá Thành Sản Phẩm Hoàn Thành 
-permalink: /nguyen-ly-ke-toan/collections/
+permalink: /docs/collections/
 ---
 
 Quá trình sản xuất là quá trình kết hợp 3 yếu tố sản xuất cơ bản: 

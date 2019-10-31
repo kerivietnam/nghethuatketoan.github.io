@@ -1,6 +1,6 @@
 ---
 title: Liquid Filters
-permalink: "/nguyen-ly-ke-toan/liquid/filters/"
+permalink: "/docs/liquid/filters/"
 shopify_filter_url: https://shopify.github.io/liquid/filters/
 shopify_filters:
 - abs
@@ -56,7 +56,7 @@ All of the standard Liquid [filters](#standard-liquid-filters) are supported (se
 
 To make common tasks easier, Jekyll even adds a few handy filters of its own,
 all of which you can find on this page. You can also create your own filters
-using [plugins](/nguyen-ly-ke-toan/plugins/).
+using [plugins](/docs/plugins/).
 
 <div class="mobile-side-scroller">
 <table>

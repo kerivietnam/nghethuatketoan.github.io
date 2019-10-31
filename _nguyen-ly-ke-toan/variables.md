@@ -1,6 +1,6 @@
 ---
 title: Báo Các Kết Quả Hoạt Động Kinh Doanh
-permalink: /nguyen-ly-ke-toan/variables/
+permalink: /docs/variables/
 ---
 
 

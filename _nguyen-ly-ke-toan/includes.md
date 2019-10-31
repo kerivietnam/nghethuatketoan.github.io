@@ -1,6 +1,6 @@
 ---
 title: Includes
-permalink: /nguyen-ly-ke-toan/includes/
+permalink: /docs/includes/
 ---
 
 The `include` tag allows you to include the content from another file stored in the `_includes` folder:

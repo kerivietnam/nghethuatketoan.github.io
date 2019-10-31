@@ -1,6 +1,6 @@
 ---
 title: Troubleshooting
-permalink: /nguyen-ly-ke-toan/troubleshooting/
+permalink: /docs/troubleshooting/
 ---
 
 If you ever run into problems installing or using Jekyll, here are a few tips
@@ -184,7 +184,7 @@ which to install Jekyll.
 [RVM]: https://rvm.io
 [rbenv]: http://rbenv.org
 [chruby]: https://github.com/postmodern/chruby
-[etc]: https://github.com/rvm/rvm/blob/master/nguyen-ly-ke-toan/alt.md
+[etc]: https://github.com/rvm/rvm/blob/master/docs/alt.md
 
 If you elect to use one of the above methods to install Ruby, it might be
 necessary to modify your `$PATH` variable using the following command:
@@ -239,7 +239,7 @@ http://localhost:4000/blog
 
 ## Configuration problems
 
-The order of precedence for conflicting [configuration settings](/nguyen-ly-ke-toan/configuration/)
+The order of precedence for conflicting [configuration settings](/docs/configuration/)
 is as follows:
 
 1. Command-line flags
@@ -309,7 +309,7 @@ run into these errors, try setting `excerpt_separator: ""` in your
 
 If you run into an issue that a static file can't be found in your
 production environment during build since v3.2.0 you should set your
-[environment to `production`](/nguyen-ly-ke-toan/configuration/environments/).
+[environment to `production`](/docs/configuration/environments/).
 The issue is caused by trying to copy a non-existing symlink.
 
 <div class="note">

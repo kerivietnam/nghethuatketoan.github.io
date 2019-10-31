@@ -10,11 +10,11 @@ global:
       See below for details.
   - name: page
     description: >-
-      Page specific information + the <a href="/nguyen-ly-ke-toan/front-matter/">front matter</a>.
+      Page specific information + the <a href="/docs/front-matter/">front matter</a>.
       Custom variables set via the front matter will be available here. See below for details.
   - name: layout
     description: >-
-      Layout specific information + the <a href="/nguyen-ly-ke-toan/front-matter/">front matter</a>.
+      Layout specific information + the <a href="/docs/front-matter/">front matter</a>.
       Custom variables set via front matter in layouts will be available here.
   - name: content
     description: >-
@@ -45,7 +45,7 @@ site:
       <code>lsi</code> option when generating sites.
   - name: site.static_files
     description: >-
-      A list of all <a href="/nguyen-ly-ke-toan/static-files/">static files</a> (i.e.
+      A list of all <a href="/docs/static-files/">static files</a> (i.e.
       files not processed by Jekyll's converters or the Liquid renderer).
       Each file has five properties: <code>path</code>, <code>modified_time</code>,
       <code>name</code>, <code>basename</code> and <code>extname</code>.
@@ -119,7 +119,7 @@ page:
       structure above the <code>_posts</code> directory. For example, a post at
       <code>/work/code/_posts/2008-12-24-closures.md</code> would have this field set to
       <code>['work', 'code']</code>. These can also be specified in the
-      <a href="/nguyen-ly-ke-toan/front-matter/">front matter</a>.
+      <a href="/docs/front-matter/">front matter</a>.
   - name: page.collection
     description: >-
       The label of the collection to which this document belongs. e.g. <code>posts</code> for a post, or
@@ -128,19 +128,19 @@ page:
   - name: page.tags
     description: >-
       The list of tags to which this post belongs. These can be specified in the
-      <a href="/nguyen-ly-ke-toan/front-matter/">front matter</a>.
+      <a href="/docs/front-matter/">front matter</a>.
   - name: page.dir
     description: >-
       The path between the source directory and the file of the post or page,  e.g.
       <code>/pages/</code>.
-      This can be overridden by <code>permalink</code> in the <a href="/nguyen-ly-ke-toan/front-matter/">front matter</a>.
+      This can be overridden by <code>permalink</code> in the <a href="/docs/front-matter/">front matter</a>.
   - name: page.name
     description: >-
       The filename of the post or page, e.g. <code>about.md</code>
   - name: page.path
     description: >-
       The path to the raw post or page. Example usage: Linking back to the page or post’s source
-      on GitHub. This can be overridden in the <a href="/nguyen-ly-ke-toan/front-matter/">front matter</a>.
+      on GitHub. This can be overridden in the <a href="/docs/front-matter/">front matter</a>.
   - name: page.next
     description: >-
       The next post relative to the position of the current post in <code>site.posts</code>.

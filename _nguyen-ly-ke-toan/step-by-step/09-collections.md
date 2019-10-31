@@ -158,7 +158,7 @@ repetitive.
 What you really want is all posts to automatically have the post
 layout, authors to have author and everything else to use the default.
 
-You can achieve this by using [front matter defaults](/nguyen-ly-ke-toan/configuration/front-matter-defaults/)
+You can achieve this by using [front matter defaults](/docs/configuration/front-matter-defaults/)
 in `_config.yml`. You set a scope of what the default applies to, then the
 default front matter you'd like.
 

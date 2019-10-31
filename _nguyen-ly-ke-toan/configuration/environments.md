@@ -1,6 +1,6 @@
 ---
 title: Environments
-permalink: "/nguyen-ly-ke-toan/configuration/environments/"
+permalink: "/docs/configuration/environments/"
 ---
 In the `build` (or `serve`) arguments, you can specify a Jekyll environment
 and value. The build will then apply this value in any conditional statements
@@ -44,6 +44,6 @@ values in your configuration files when moving from one environment to another.
 
 <div class="note info">
   <p>
-    To switch part of your config settings depending on the environment, use the <a href="/nguyen-ly-ke-toan/configuration/options/#build-command-options">build command option</a>, for example <code>--config _config.yml,_config_development.yml</code>. Settings in later files override settings in earlier files.
+    To switch part of your config settings depending on the environment, use the <a href="/docs/configuration/options/#build-command-options">build command option</a>, for example <code>--config _config.yml,_config_development.yml</code>. Settings in later files override settings in earlier files.
   </p>
 </div>

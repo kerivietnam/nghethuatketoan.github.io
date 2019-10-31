@@ -1,6 +1,6 @@
 ---
 title: Converters
-permalink: /nguyen-ly-ke-toan/plugins/converters/
+permalink: /docs/plugins/converters/
 ---
 
 If you have a new markup language you’d like to use with your site, you can

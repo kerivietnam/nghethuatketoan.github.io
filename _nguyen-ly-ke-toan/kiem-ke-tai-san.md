@@ -1,6 +1,6 @@
 ---
 title: Kiểm Kê Tài Sản 
-permalink: /nguyen-ly-ke-toan/configuration/
+permalink: /docs/configuration/
 ---
 
 ## 1. Nội dung công tác kiểm kê 

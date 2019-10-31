@@ -1,6 +1,6 @@
 ---
 title: Filters
-permalink: /nguyen-ly-ke-toan/plugins/filters/
+permalink: /docs/plugins/filters/
 ---
 
 Filters are modules that export their methods to liquid.

@@ -1,6 +1,6 @@
 ---
 title: Jekyll on macOS
-permalink: /nguyen-ly-ke-toan/Mot-so-nguyen-tac-ke-toan/macos/
+permalink: /docs/Mot-so-nguyen-tac-ke-toan/macos/
 ---
 
 ## Install Command Line Tools
@@ -76,7 +76,7 @@ That's it! Head over [rbenv command references](https://github.com/rbenv/rbenv#c
 
 ## Install Jekyll
 
-Now all that is left is installing [Bundler](/nguyen-ly-ke-toan/Khai-niem-don-vi-ke-toan/#bundler) and Jekyll.
+Now all that is left is installing [Bundler](/docs/Khai-niem-don-vi-ke-toan/#bundler) and Jekyll.
 
 ### Local Install
 
@@ -132,4 +132,4 @@ sudo gem install bundler jekyll
 
 ## Problems?
 
-Check out the [troubleshooting](/nguyen-ly-ke-toan/troubleshooting/) page or [ask for help on our forum](https://talk.jekyllrb.com).
+Check out the [troubleshooting](/docs/troubleshooting/) page or [ask for help on our forum](https://talk.jekyllrb.com).

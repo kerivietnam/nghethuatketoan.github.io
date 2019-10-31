@@ -38,7 +38,7 @@ braces and percent signs: {% raw %}`{%`{% endraw %} and
 {% endraw %}
 
 Outputs the sidebar if `page.show_sidebar` is true. You can learn more about the
-tags available to Jekyll [here](/nguyen-ly-ke-toan/liquid/tags/).
+tags available to Jekyll [here](/docs/liquid/tags/).
 
 ## Filters
 
@@ -52,7 +52,7 @@ and are separated by a `|`. For example:
 {% endraw %}
 
 Outputs `Hi`. You can learn more about the filters available to Jekyll
-[here](/nguyen-ly-ke-toan/liquid/filters/).
+[here](/docs/liquid/filters/).
 
 ## Use Liquid
 

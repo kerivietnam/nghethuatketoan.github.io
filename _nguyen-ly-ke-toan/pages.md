@@ -1,6 +1,6 @@
 ---
 title: Phương Pháp Tính Giá
-permalink: /nguyen-ly-ke-toan/pages/
+permalink: /docs/pages/
 ---
 ## 1. Khái niệm và ý nghĩa của phương pháp tính giá 
 * Tính giá là một phương pháp kế toán để quy đổi hình thức biểu hiện của các đối tượng kế toán từ các thước đo 

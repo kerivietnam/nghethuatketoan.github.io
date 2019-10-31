@@ -1,6 +1,6 @@
 ---
 title: Jekyll on Ubuntu
-permalink: /nguyen-ly-ke-toan/Mot-so-nguyen-tac-ke-toan/ubuntu/
+permalink: /docs/Mot-so-nguyen-tac-ke-toan/ubuntu/
 ---
 Before we install Jekyll, we need to make sure we have all the required
 dependencies.

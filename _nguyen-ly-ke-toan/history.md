@@ -1,6 +1,6 @@
 ---
 title: Trách Nhiệm Và Quyền
-permalink: "/nguyen-ly-ke-toan/history/"
+permalink: "/docs/history/"
 note: Trách Nhiệm Và Quyền Của Kế Toán
 ---
 

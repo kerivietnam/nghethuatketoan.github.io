@@ -1,6 +1,6 @@
 ---
 title: Tags
-permalink: /nguyen-ly-ke-toan/plugins/tags/
+permalink: /docs/plugins/tags/
 ---
 
 If you’d like to include custom liquid tags in your site, you can do so by

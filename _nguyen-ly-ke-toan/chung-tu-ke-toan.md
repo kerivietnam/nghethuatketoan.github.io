@@ -1,6 +1,6 @@
 ---
 title:  Chứng Từ Kế Toán
-permalink: /nguyen-ly-ke-toan/chung-tu-ke-toan/
+permalink: /docs/chung-tu-ke-toan/
 ---
 
 ## 1. Khái niệm về chứng từ kế toán  

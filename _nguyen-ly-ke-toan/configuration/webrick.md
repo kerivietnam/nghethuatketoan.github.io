@@ -1,6 +1,6 @@
 ---
 title: WEBrick Options
-permalink: "/nguyen-ly-ke-toan/configuration/webrick/"
+permalink: "/docs/configuration/webrick/"
 ---
 You can provide custom headers for your site by adding them to `_config.yml`
 

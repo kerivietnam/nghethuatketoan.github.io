@@ -1,6 +1,6 @@
 ---
 title: Data Files
-permalink: /nguyen-ly-ke-toan/datafiles/
+permalink: /docs/datafiles/
 ---
 
 In addition to the [built-in variables](../variables/) available from Jekyll,

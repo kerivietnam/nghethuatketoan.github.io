@@ -17,7 +17,7 @@ To start building your project on CircleCI, all you need to do is 'follow' your 
 1. Find your project in the list and click 'Build project' on the right.
 1. The first build will start on its own. You can start telling CircleCI how to build your project by creating a [circle.yml][3] file in the root of your repository.
 
-[3]: https://circleci.com/nguyen-ly-ke-toan/configuration/
+[3]: https://circleci.com/docs/configuration/
 
 ## 2. Dependencies
 
@@ -156,6 +156,6 @@ workflows:
 
 This entire guide is open-source. Go ahead and [edit it][7] if you have a fix or [ask for help][8] if you run into trouble and need some help. CircleCI also has an [online community][9] for help.
 
-[7]: https://github.com/jekyll/jekyll/edit/master/nguyen-ly-ke-toan/_docs/continuous-integration/circleci.md
+[7]: https://github.com/jekyll/jekyll/edit/master/docs/_docs/continuous-integration/circleci.md
 [8]: https://jekyllrb.com/help/
 [9]: https://discuss.circleci.com

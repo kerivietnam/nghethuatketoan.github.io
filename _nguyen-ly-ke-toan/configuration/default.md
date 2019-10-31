@@ -1,6 +1,6 @@
 ---
 title: Default Configuration
-permalink: "/nguyen-ly-ke-toan/configuration/default/"
+permalink: "/docs/configuration/default/"
 ---
 
 Jekyll runs with the following configuration options by default. Alternative

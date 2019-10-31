@@ -1,7 +1,7 @@
 ---
 title: Bảng Cân Đối Kế Toán
-permalink: /nguyen-ly-ke-toan/liquid/
-redirect_from: "/nguyen-ly-ke-toan/templates/"
+permalink: /docs/liquid/
+redirect_from: "/docs/templates/"
 ---
 
 

@@ -1,8 +1,8 @@
 ---
 title: Jekyll on Windows
-permalink: /nguyen-ly-ke-toan/Mot-so-nguyen-tac-ke-toan/windows/
+permalink: /docs/Mot-so-nguyen-tac-ke-toan/windows/
 redirect_from:
-  - /nguyen-ly-ke-toan/windows/
+  - /docs/windows/
 ---
 
 While Windows is not an officially-supported platform, it can be used to run Jekyll with the proper tweaks. This page aims to
@@ -48,7 +48,7 @@ Your Command Prompt instance should now be a Bash instance. Now we must update o
 ```sh
 sudo apt-get update -y && sudo apt-get upgrade -y
 ```
-Now we can install Ruby. To do this we will use a repository from [BrightBox](https://www.brightbox.com/nguyen-ly-ke-toan/ruby/ubuntu/),
+Now we can install Ruby. To do this we will use a repository from [BrightBox](https://www.brightbox.com/docs/ruby/ubuntu/),
 which hosts optimized versions of Ruby for Ubuntu.
 
 ```sh
@@ -85,7 +85,7 @@ with the current date in the filename.
 <div class="note info">
   <h5>Non-superuser account issues</h5>
   <p>If the `jekyll new` command prints the error "Your user account isn't allowed to install to the system RubyGems", see
-  the "Running Jekyll as Non-Superuser" instructions in <a href="/nguyen-ly-ke-toan/troubleshooting/#no-sudo">Troubleshooting</a>.</p>
+  the "Running Jekyll as Non-Superuser" instructions in <a href="/docs/troubleshooting/#no-sudo">Troubleshooting</a>.</p>
 </div>
 
 **Note:** Bash on Ubuntu on Windows is still under development, so you may run into issues.

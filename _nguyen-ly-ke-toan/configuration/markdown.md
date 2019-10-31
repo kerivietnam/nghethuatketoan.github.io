@@ -1,6 +1,6 @@
 ---
 title: Markdown Options
-permalink: "/nguyen-ly-ke-toan/configuration/markdown/"
+permalink: "/docs/configuration/markdown/"
 ---
 The various Markdown renderers supported by Jekyll sometimes have extra options
 available.

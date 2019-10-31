@@ -1,6 +1,6 @@
 ---
 title: Permalinks
-permalink: /nguyen-ly-ke-toan/permalinks/
+permalink: /docs/permalinks/
 ---
 
 Permalinks are the output path for your pages, posts, or collections. They
@@ -382,7 +382,7 @@ Collections have the following placeholders available:
       <td>
         <p>
           The <code>:title</code> template variable will take the
-          <code>slug</code> <a href="/nguyen-ly-ke-toan/front-matter/">front matter</a>
+          <code>slug</code> <a href="/docs/front-matter/">front matter</a>
           variable value if any is present in the document; if none is
           defined then <code>:title</code> will be equivalent to
           <code>:name</code>, aka the slug generated from the filename.

@@ -7,7 +7,7 @@ In this final step we'll get the site ready for production.
 
 ## Gemfile
 
-It's good practice to have a [Gemfile](/nguyen-ly-ke-toan/Khai-niem-don-vi-ke-toan/#gemfile) for your site.
+It's good practice to have a [Gemfile](/docs/Khai-niem-don-vi-ke-toan/#gemfile) for your site.
 This ensures the version of Jekyll and other gems remains consistent across
 different environments.
 
@@ -36,7 +36,7 @@ This restricts your Ruby environment to only use gems set in your `Gemfile`.
 ## Plugins
 
 Jekyll plugins allow you to create custom generated content specific to your
-site. There's many [plugins](/nguyen-ly-ke-toan/plugins/) available or you can even
+site. There's many [plugins](/docs/plugins/) available or you can even
 write your own.
 
 There's three official plugins which are useful on almost any Jekyll site:
@@ -105,7 +105,7 @@ Restart your Jekyll server and check these tags are added to the `<head>`.
 Sometimes you might want to output something in production but not
 in development. Analytics scripts are the most common example of this.
 
-To do this you can use [environments](/nguyen-ly-ke-toan/configuration/environments/). You
+To do this you can use [environments](/docs/configuration/environments/). You
 can set the environment by using the `JEKYLL_ENV` environment variable when
 running a command. For example:
 
@@ -136,8 +136,8 @@ JEKYLL_ENV=production bundle exec jekyll build
 
 And copy the contents of `_site` to your server.
 
-A better way is to automate this process using a [CI](/nguyen-ly-ke-toan/deployment/automated/)
-or [3rd party](/nguyen-ly-ke-toan/deployment/third-party/).
+A better way is to automate this process using a [CI](/docs/deployment/automated/)
+or [3rd party](/docs/deployment/third-party/).
 
 ## Wrap up
 
@@ -145,5 +145,5 @@ That brings us to the end of this step-by-step tutorial and the beginning of
 your Jekyll journey!
 
 * Come say hi to the [community forums](https://talk.jekyllrb.com)
-* Help us make Jekyll better by [contributing](/nguyen-ly-ke-toan/contributing/)
+* Help us make Jekyll better by [contributing](/docs/contributing/)
 * Keep building Jekyll sites!

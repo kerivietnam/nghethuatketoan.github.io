@@ -1,6 +1,6 @@
 ---
 title: Static Files
-permalink: /nguyen-ly-ke-toan/static-files/
+permalink: /docs/static-files/
 ---
 A static file is a file that does not contain any front matter. These
 include images, PDFs, and other un-rendered content.
@@ -66,7 +66,7 @@ Note that in the above table, `file` can be anything. It's an arbitrarily set va
 
 ## Add front matter to static files
 
-Although you can't directly add front matter values to static files, you can set front matter values through the [defaults property](/nguyen-ly-ke-toan/configuration/front-matter-defaults/) in your configuration file. When Jekyll builds the site, it will use the front matter values you set.
+Although you can't directly add front matter values to static files, you can set front matter values through the [defaults property](/docs/configuration/front-matter-defaults/) in your configuration file. When Jekyll builds the site, it will use the front matter values you set.
 
 Here's an example:
 

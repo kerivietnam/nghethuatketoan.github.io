@@ -1,13 +1,13 @@
 ---
 title: Themes
-permalink: /nguyen-ly-ke-toan/themes/
+permalink: /docs/themes/
 ---
 
 Jekyll has an extensive theme system that allows you to leverage community-maintained templates and styles to customize your site's presentation. Jekyll themes specify plugins and package up assets, layouts, includes, and stylesheets in a way that can be overridden by your site's content.
 
 ## Understanding gem-based themes
 
-When you [create a new Jekyll site](/nguyen-ly-ke-toan/) (by running the `jekyll new <PATH>` command), Jekyll installs a site that uses a gem-based theme called [Minima](https://github.com/jekyll/minima).
+When you [create a new Jekyll site](/docs/) (by running the `jekyll new <PATH>` command), Jekyll installs a site that uses a gem-based theme called [Minima](https://github.com/jekyll/minima).
 
 With gem-based themes, some of the site's directories (such as the `assets`, `_layouts`, `_includes`, and `_sass` directories) are stored in the theme's gem, hidden from your immediate view. Yet all of the necessary directories will be read and processed during Jekyll's build process.
 
@@ -252,7 +252,7 @@ For example, if your theme has a `/_layouts/page.html` file, and a page has `lay
 
 Any file in `/assets` will be copied over to the user's site upon build unless they have a file with the same relative path. You can ship any kind of asset here: SCSS, an image, a webfont, etc. These files behave like pages and static files in Jekyll:
 
-- If the file has [front matter](/nguyen-ly-ke-toan/front-matter/) at the top, it will be rendered.
+- If the file has [front matter](/docs/front-matter/) at the top, it will be rendered.
 - If the file does not have front matter, it will simply be copied over into the resulting site.
 
 This allows theme creators to ship a default `/assets/styles.scss` file which their layouts can depend on as `/assets/styles.css`.

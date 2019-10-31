@@ -1,6 +1,6 @@
 ---
 title: Default Configuration
-permalink: "/nguyen-ly-ke-toan/configuration/incremental-regeneration/"
+permalink: "/docs/configuration/incremental-regeneration/"
 ---
 
 ## Incremental Regeneration
