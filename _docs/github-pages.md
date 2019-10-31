@@ -135,6 +135,6 @@ to see more detailed examples.
     While Windows is not officially supported, it is possible
     to install the <code>github-pages</code> gem on Windows.
     Special instructions can be found on our
-    <a href="/docs/installation/windows/">Windows-specific docs page</a>.
+    <a href="/docs/Mot-so-nguyen-tac-ke-toan/windows/">Windows-specific docs page</a>.
   </p>
 </div>

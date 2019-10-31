@@ -1,6 +1,6 @@
 ---
 title: Jekyll on macOS
-permalink: /docs/installation/macos/
+permalink: /docs/Mot-so-nguyen-tac-ke-toan/macos/
 ---
 
 ## Install Command Line Tools

@@ -1,6 +1,6 @@
 ---
 title: Jekyll on Linux
-permalink: /docs/installation/other-linux/
+permalink: /docs/Mot-so-nguyen-tac-ke-toan/other-linux/
 ---
 Installation on other Linux distributions works similarly as on [Ubuntu](../ubuntu/).
 

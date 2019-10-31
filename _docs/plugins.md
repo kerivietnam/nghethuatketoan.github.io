@@ -7,7 +7,7 @@ Jekyll has a plugin system with hooks that allow you to create custom generated
 content specific to your site. You can run custom code for your site without
 having to modify the Jekyll source itself.
 
-* [Installation](/docs/plugins/installation/) - How to install plugins
+* [Installation](/docs/plugins/Mot-so-nguyen-tac-ke-toan/) - How to install plugins
 * [Your first plugin](/docs/plugins/your-first-plugin/) - How to write plugins
 * [Generators](/docs/plugins/generators/) - Create additional content on your site
 * [Converters](/docs/plugins/converters/) - Change a markup language into another format

@@ -1,6 +1,6 @@
 ---
 title: Jekyll on Windows
-permalink: /docs/installation/windows/
+permalink: /docs/Mot-so-nguyen-tac-ke-toan/windows/
 redirect_from:
   - /docs/windows/
 ---

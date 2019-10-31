@@ -1,6 +1,6 @@
 ---
 title: Plugins
-permalink: /docs/plugins/installation/
+permalink: /docs/plugins/Mot-so-nguyen-tac-ke-toan/
 ---
 
 You have 3 options for installing plugins:
