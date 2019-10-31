@@ -128,7 +128,7 @@ end
 The guides help you with the specifics of creating plugins. We also have some
 recommended best practices to help structure your plugin.
 
-We recommend using a [gem](/docs/ruby-101/#gems) for your plugin. This will
+We recommend using a [gem](/docs/Khai-niem-don-vi-ke-toan/#gems) for your plugin. This will
 help you manage dependencies, keep separation from your site source code and
 allow you to share functionality across multiple projects. For tips on creating
 a gem take a look a the
