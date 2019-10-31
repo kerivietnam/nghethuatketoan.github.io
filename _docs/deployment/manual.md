@@ -11,7 +11,7 @@ your site live. Here are some manual ways of achieving this:
 
 Rsync is similar to scp except it can be faster as it will only send changed
 parts of files as opposed to the entire file. You can learn more about using
-rsync in the [Digital Ocean tutorial](https://www.digitalocean.com/community/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories-on-a-vps).
+rsync in the [Digital Ocean tutorial](https://www.digitalocean.com/Nhiem vu - Yeu cau - Dac diem ke toan/tutorials/how-to-use-rsync-to-sync-local-and-remote-directories-on-a-vps).
 
 ## Amazon S3
 
