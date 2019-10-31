@@ -3,7 +3,7 @@ layout: page
 title: Phần Mềm Kế Toán Doanh Nghiệp
 permalink: /resources/
 redirect_from:
- - /docs/resources/
+ - /nguyen-ly-ke-toan/resources/
 ---
 
 ## Phần Mềm Kế Toán Doanh Nghiệp vừa và nhỏ

@@ -46,7 +46,7 @@ ErrorDocument 404 /error_pages/404.html
 
 Where the path is relative to your site's domain.
 
-More info on configuring Apache Error Pages can found in [official documentation](https://httpd.apache.org/docs/current/mod/core.html#errordocument).
+More info on configuring Apache Error Pages can found in [official documentation](https://httpd.apache.org/nguyen-ly-ke-toan/current/mod/core.html#errordocument).
 
 
 ## Hosting on Nginx server
@@ -66,7 +66,7 @@ server {
 If the `server` block already exists, only add the code inside the `server` block given above.
 The `location` directive prevents users from directly browsing the 404.html page.
 
-More info on nginx error page can be found on [nginx official documentation](http://nginx.org/en/docs/http/ngx_http_core_module.html#error_page).
+More info on nginx error page can be found on [nginx official documentation](http://nginx.org/en/nguyen-ly-ke-toan/http/ngx_http_core_module.html#error_page).
 
 <p class="note warning">
   Proceed with caution while editing the configuration file.
