@@ -51,11 +51,11 @@ trên chứng từ.
 duyệt đối với từng loại nghiệp vụ kinh tế tài chính.  
 ### 3.2. Danh mục chứng từ kế toán doanh nghiệp  
 Hệ thống chứng từ kế toán bao gồm danh mục chứng từ, các mẫu biểu chứng từ và cách ghi chép từng chứng từ. Danh mục chứng từ kế toán bao gồm 37 mẫu biểu được chia thành 5 loại: 
-`Loại 1 - Lao động tiền lương gồm 12 chứng từ  `
-`Loại 2 - Hàng tồn kho gồm 7 chứng từ `
-`Loại 3 - Bán hàng gồm 2 chứng từ `
-`Loại 4 - Tiền tệ gồm 10 chứng từ `
-`Loại 5 - Tài sản cố định gồm 6 chứng từ `
+* Loại 1 - Lao động tiền lương gồm 12 chứng từ
+* Loại 2 - Hàng tồn kho gồm 7 chứng từ
+* Loại 3 - Bán hàng gồm 2 chứng từ
+* Loại 4 - Tiền tệ gồm 10 chứng từ
+* Loại 5 - Tài sản cố định gồm 6 chứng từ
 
 
  
