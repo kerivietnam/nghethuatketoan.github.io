@@ -1,6 +1,6 @@
 ---
 title: Hệ Thống Tài Khoản Kế Toán
-permalink: /docs/deployment/
+permalink: /docs/he-thong-tai-khoan-ke-toan/
 redirect_from: "/docs/deployment-methods/index.html"
 ---
 
