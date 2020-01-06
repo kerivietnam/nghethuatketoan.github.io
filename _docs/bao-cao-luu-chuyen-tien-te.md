@@ -1,7 +1,7 @@
 ---
 title: Báo Cáo Lưu Chuyển Tiền Tệ
 description: placeholder
-permalink: /docs/layouts/
+permalink: /docs/bao-cao-luu-chuyen-tien-te/
 ---
 
 
