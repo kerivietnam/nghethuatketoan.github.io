@@ -36,7 +36,7 @@ vào năm 1494 về số học, đại số học, toán học thương mại, h
 kế toán. Riêng về phần kế toán, ông đã dành 36 chương về kế toán kép
 mà theo đó các <code class="highlighter-rouge">tài liệu kế toán</code> như <code class="highlighter-rouge">phiếu ghi tạm</code>,
  <code class="highlighter-rouge">sổ nhật ký</code>, <code class="highlighter-rouge">sổ cái</code> và
-một số lớn <a href="https://nghethuatketoan.vn/docs/">các tài khoản</a> được phân chia rõ rệt như tài khoản vốn, tài
+một số lớn <a href="https://nghethuatketoan.vn/docs/he-thong-tai-khoan-ke-toan">các tài khoản</a> được phân chia rõ rệt như tài khoản vốn, tài
 khoản kho hàng, tài khoản kết quả sản xuất... <br/>
 Người ta coi ông như là
 người cha của ngành kế toán và là người cuối cùng có công đóng góp
