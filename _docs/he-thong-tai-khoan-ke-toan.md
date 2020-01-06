@@ -6,7 +6,6 @@ redirect_from: "/docs/deployment-methods/index.html"
 
 ## 1. Hệ thống tài khoản kế toán
 
-
 * Hệ thống tài khoản doanh nghiệp bao gồm 92 tài khoản tồng hợp được chia ra thành 10 loại, trong đó có:
   * 86 tài khoản từ loại 1 đến loại 9 (gọi là tài khoản trong bảng)
   * 6 tài khoản loại 0 (được gọi là  tài  khoản  ngoài  bảng)
@@ -18,19 +17,25 @@ redirect_from: "/docs/deployment-methods/index.html"
   * Chữ số thứ 5 là tài khoản cấp 3
 
 
-<div class="note">
-  <h5>2. Kết cấu chung của các loại tài khoản trong hệ 
-thống tài khoản  </h5>
-</div>
+## 2. Kết cấu chung của các loại tài khoản trong hệ thống tài khoản
 
-```
-* Đối với tài khoản loại 1, loại 2: là tài khoản tài sản  
-* Đối với tài khoản loại 3, loại 4: là tài khoản nguồn vốn
-* Đối với tài khoản loại 5, loại 7. Là tài khoản doanh thu    
-* Đối với tài khoản loại 6, loại 8: Là tài khoản chi phí. 
-* Đối với tài khoản loại 9: Xác định kết quả kinh doanh  
-* Đối với tài khoản loại 0: Tài khoản ngoài bảng 
-```
+* Tài khoản tài sản gồm: 
+  * Tài khoản loại 1
+  * Tài khoản loại 2
+* Tài khoản nguồn vốn gồm: 
+  * Tài khoản loại 3
+  * Tài khoản loại 4
+* Tài khoản doanh thu gồm:
+  * Tài khoản loại 5
+  * Tài khoản loại 7
+* Tài khoản chi phí:
+  * Tài khoản loại 6
+  * Tài khoản loại 8
+* Tài khoản xác định kết quả kinh doanh gồm:
+  * Tài khoản loại 9
+* Tài khoản ngoài bảng gồm:
+  *Tài khoản loại 0
+
 <div class="note">
   <h5>3. Tài khoản tổng hợp và tài khoản phân tích  </h5>
 </div>
