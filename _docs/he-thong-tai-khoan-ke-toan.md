@@ -9,11 +9,13 @@ redirect_from: "/docs/deployment-methods/index.html"
 
 * Hệ thống tài khoản doanh nghiệp bao gồm 92 tài khoản tồng hợp được chia ra thành 10 loại, trong đó có:
   * 86 tài khoản từ loại 1 đến loại 9 (gọi là tài khoản trong bảng)
-<br/>  và 6 tài khoản loại 0 (được gọi 
-là  tài  khoản  ngoài  bảng).  Số  hiệu  tài  khoản  được  mã  hoá  theo  một 
-nguyên tắc thống nhất, chữ số đầu tiên là loại tài khoản, chữ số thứ 2. 
-là nhóm tài khoản, chữ số thứ 3 là tài khoản cấp 1, chữ số thứ 4 là tài 
-khoản cấp 2, chữ số thứ 5 là tài khoản cấp 3. 
+  * 6 tài khoản loại 0 (được gọi là  tài  khoản  ngoài  bảng)
+* Số  hiệu  tài  khoản  được  mã  hoá  theo  một nguyên tắc thống nhất như sau:
+  * Chữ số đầu tiên là loại tài khoản
+  * Chữ số thứ nhì là nhóm tài khoản
+  * Chữ số thứ 3 là tài khoản cấp 1
+  * Chữ số thứ 4 là tài khoản cấp 2
+  * Chữ số thứ 5 là tài khoản cấp 3
 
 
 <div class="note">
