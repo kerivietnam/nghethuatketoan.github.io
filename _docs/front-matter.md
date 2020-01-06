@@ -1,6 +1,6 @@
 ---
 title: Tính Giá Vật Tư Hàng Hóa Mua Vào
-permalink: /docs/tinh-gia-vat-tu-hang-hoa-mua-vao/
+permalink: /docs/front-matter/
 redirect_from: /docs/frontmatter/index.html
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Phương Pháp Tổng Hợp Và Cân Đối Kế Toán
-permalink: /docs/phuong-phap-tong-hop-can-doi-ke-toan/
+permalink: /docs/structure/
 ---
 
 <div class="note info">

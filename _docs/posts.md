@@ -1,6 +1,6 @@
 ---
 title: Tính Giá Tài Sản Cố Định
-permalink: /docs/tinh-gia-tai-san-co-dinh/
+permalink: /docs/posts/
 redirect_from:
   - /docs/drafts/
 ---

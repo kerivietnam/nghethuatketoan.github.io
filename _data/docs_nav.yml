@@ -8,19 +8,19 @@
 - title: Chứng Từ Kế Toán Và Kiểm Kê
   docs:
     - link: /docs/chung-tu-ke-toan/
-    - link: /docs/kiem-ke-tai-san/
+    - link: /docs/configuration/
 - title: Tính Giá Đối Tượng Kế Toán
   docs:
-    - link: /docs/phuong-phap-tinh-gia/
-    - link: /docs/tinh-gia-tai-san-co-dinh/
-    - link: /docs/tinh-gia-vat-tu-hang-hoa-mua-vao/
-    - link: /docs/tinh-gia-thanh-san-pham-hoan-thanh/
+    - link: /docs/pages/
+    - link: /docs/posts/
+    - link: /docs/front-matter/
+    - link: /docs/collections/
     # - link: /docs/datafiles/
     # - link: /docs/assets/
     # - link: /docs/static-files/
 - title: Tổng Hợp Và Cân Đối Kế Toán
   docs:
-    - link: /docs/phuong-phap-tong-hop-can-doi-ke-toan/
+    - link: /docs/structure/
     - link: /docs/liquid/
     - link: /docs/variables/
     # - link: /docs/includes/
