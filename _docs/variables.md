@@ -1,6 +1,6 @@
 ---
 title: Báo Các Kết Quả Hoạt Động Kinh Doanh
-permalink: /docs/bao-cao-ket-qua-hoat-dong-kinh-doanh/
+permalink: /docs/variables/
 ---
 
 
