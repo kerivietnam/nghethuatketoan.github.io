@@ -19,34 +19,28 @@ redirect_from: "/docs/deployment-methods/index.html"
 
 ## 2. Kết cấu chung của các loại tài khoản trong hệ thống tài khoản
 
-* Tài khoản tài sản gồm: 
+* **Tài khoản tài sản** gồm: 
   * Tài khoản loại 1
   * Tài khoản loại 2
-* Tài khoản nguồn vốn gồm: 
+* **Tài khoản nguồn vốn** gồm: 
   * Tài khoản loại 3
   * Tài khoản loại 4
-* Tài khoản doanh thu gồm:
+* **Tài khoản doanh thu** gồm:
   * Tài khoản loại 5
   * Tài khoản loại 7
-* Tài khoản chi phí:
+* **Tài khoản chi phí** gồm:
   * Tài khoản loại 6
   * Tài khoản loại 8
-* Tài khoản xác định kết quả kinh doanh gồm:
+* **Tài khoản xác định kết quả kinh doanh** gồm:
   * Tài khoản loại 9
-* Tài khoản ngoài bảng gồm:
+* **Tài khoản ngoài bảng** gồm:
   *Tài khoản loại 0
 
-<div class="note">
-  <h5>3. Tài khoản tổng hợp và tài khoản phân tích  </h5>
-</div>
+## 2. 3. Tài khoản tổng hợp và tài khoản phân tích
 
-```
-* Tài khoản tổng hợp: Là những tài khoản phản ánh một cách tổng 
-quát giá từ các loại tài sản, nguồn vốn hay quá trình kinh doanh của 
-doanh  nghiệp.  Trong  hệ  thống  tài  khoản,  tài  khoản  tổng  hợp  là  tài 
-khoản cấp I, những tài khoản này có 3 chữ số (hệ thống hiện hành có 
-92 tài khoản kể cả tài khoản ngoài bảng). 
-* Tài khoản phân tích: Là những tài khoản phản ánh một cách chi tiết hơn, 
-cụ thể hơn những nội dung kinh tế đã được phản ánh trên tài 
-khoản tổng hợp để phục vụ cho những yêu cầu quản lý khác nhau. 
-```
+* **Tài khoản tổng hợp**: Là những tài khoản phản ánh một cách tổng quát giá từ các loại 
+  * Tài sản, nguồn vốn 
+  * Quá trình kinh doanh của doanh  nghiệp.
+*Trong  hệ  thống  tài  khoản,  tài  khoản  tổng  hợp  là  tài khoản cấp I, những tài khoản này có 3 chữ số (hệ thống hiện hành có 92 tài khoản kể cả tài khoản ngoài bảng)*
+
+* **Tài khoản phân tích**: Là những tài khoản phản ánh một cách ***chi tiết hơn***, ***cụ thể hơn*** những nội dung kinh tế đã được phản ánh trên **tài khoản tổng hợp** để phục vụ cho những yêu cầu quản lý khác nhau. 
