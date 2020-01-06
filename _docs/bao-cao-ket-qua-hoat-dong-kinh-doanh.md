@@ -4,17 +4,14 @@ permalink: /docs/bao-cao-ket-qua-hoat-dong-kinh-doanh/
 ---
 
 
-<div class="note">
-  <h5> 1. Khái niệm và tác dụng của báo cáo kết quả hoạt động kinh doanh </h5>
-  <p>
+## 1. Khái niệm và tác dụng của báo cáo kết quả hoạt động kinh doanh </h5>
+
     Khái niệm: Báo cáo kết quả hoạt động kinh doanh là báo cáo tài 
 chính tổng hợp, phản ánh tổng quát tình hình và kết quả kinh doanh 
 trong  một  kỳ  hoạt  động  của  doanh  nghiệp  và  chi  tiết  cho  các  hoạt 
 động kinh doanh chính. Nói cách khác báo cáo kết quả hoạt động kinh 
 doanh là phương tiện trình bày khả năng sinh lời và thực trạng hoạt 
-động kinh doanh của doanh nghiệp. 
-  </p>
-</div>
+động kinh doanh của doanh nghiệp.
 
 ```sh
 - Tính cân đối: Báo cáo kết quả hoạt động kinh doanh được lập 
