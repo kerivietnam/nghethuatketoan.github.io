@@ -1,6 +1,7 @@
 ---
 title: Hệ Thống Tài Khoản Kế Toán
 permalink: /docs/he-thong-tai-khoan-ke-toan/
+redirect_from: "/docs/deployment-methods/index.html"
 ---
 
 ## 1. Hệ thống tài khoản kế toán
