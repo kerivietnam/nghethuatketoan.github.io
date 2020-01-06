@@ -4,17 +4,19 @@ permalink: /docs/he-thong-tai-khoan-ke-toan/
 redirect_from: "/docs/deployment-methods/index.html"
 ---
 
-## 1. Hệ thống tài khoản kế toán
+<div class="note">
+  <h5>1. Hệ thống tài khoản kế toán  </h5>
+</div>
 
-
-* Hệ thống tài khoản doanh nghiệp bao gồm 92 tài khoản tồng hợp được chia ra thành 10 loại, trong đó có:
-  * 86 tài khoản từ loại 1 đến loại 9 (gọi là tài khoản trong bảng)
-<br/>  và 6 tài khoản loại 0 (được gọi 
+```
+Hệ thống tài khoản doanh nghiệp bao gồm 92 tài khoản 
+tồng hợp được chia ra thành 10 loại, trong đó có 86 tài khoản từ loại 1 
+đến loại 9 (gọi là tài khoản trong bảng) và 6 tài khoản loại 0 (được gọi 
 là  tài  khoản  ngoài  bảng).  Số  hiệu  tài  khoản  được  mã  hoá  theo  một 
 nguyên tắc thống nhất, chữ số đầu tiên là loại tài khoản, chữ số thứ 2. 
 là nhóm tài khoản, chữ số thứ 3 là tài khoản cấp 1, chữ số thứ 4 là tài 
 khoản cấp 2, chữ số thứ 5 là tài khoản cấp 3. 
-
+```
 
 <div class="note">
   <h5>2. Kết cấu chung của các loại tài khoản trong hệ 
