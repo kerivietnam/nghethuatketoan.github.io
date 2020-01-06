@@ -1,6 +1,6 @@
 ---
 title: Bảng Cân Đối Kế Toán
-permalink: /docs/bang-can-doi-ke-toan/
+permalink: /docs/liquid/
 redirect_from: "/docs/templates/"
 ---
 
