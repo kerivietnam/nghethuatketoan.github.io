@@ -17,15 +17,12 @@ một doanh nghiệp, trong một ngành và giữa các kỳ tính giá trong m
 đơn vị với nhau. 
 ### 2.2. Nguyên tắc tính giá 
 * Nguyên tắc giá phí là nguyên tắc chung và xuyên suất trong tính giá tài  sản. Theo nguyên tắc này, giá trị của tài sản  được phản ánh theo giá gốc, tức là toàn bộ chi phí mà doanh nghiệp đã chi ra để có được tài sản đó. 
-`* Một là xác định đối tượng tính giá phù hợp. `
-`* Hai là, phân loại chi phí hợp lý.`
-
-```sh
-- Chi phí sản xuất gồm những chi phí liên quan đến việc sản xuất 
-chế tạo sản phẩm như chi phí nguyên vật liệu trực tiếp chi phí nhân 
-công trực tiếp, chi phí sản xuất chung.  
--  Chi  phí  bán  hàng  gồm  những  chi  phí  phát  sinh  liên  quan  đến 
-hoạt động tiêu thụ sản phẩm, hàng hoá, dịch vụ. 
-- Chi phí quản lý doanh nghiệp gồm những chi phí phát sinh liên 
-quan đến hoạt động quản lý, điều hành chung toàn doanh nghiệp. 
-```
+  * Một là xác định đối tượng tính giá phù hợp. `
+  * Hai là, phân loại chi phí hợp lý.`
+ * Các loại chi phí
+  * Chi phí sản xuất gồm những chi phí liên quan đến việc sản xuất chế tạo sản phẩm như 
+      * chi phí nguyên vật liệu trực tiếp
+      * chi phí nhân công trực tiếp
+	  * chi phí sản xuất chung.  
+  * Chi  phí  bán  hàng  gồm  những chi  phí  phát  sinh  liên  quan  đến hoạt động tiêu thụ sản phẩm, hàng hoá, dịch vụ. 
+  * Chi phí quản lý doanh nghiệp gồm những chi phí phát sinh liên quan đến hoạt động quản lý, điều hành chung toàn doanh nghiệp. 
