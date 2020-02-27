@@ -20,7 +20,7 @@ một doanh nghiệp, trong một ngành và giữa các kỳ tính giá trong m
   * Một là xác định đối tượng tính giá phù hợp. `
   * Hai là, phân loại chi phí hợp lý.`
 
- **Các loại chi phí**
+ * **Các loại chi phí**
   * Chi phí sản xuất gồm những chi phí liên quan đến việc sản xuất chế tạo sản phẩm như 
       * chi phí nguyên vật liệu trực tiếp
       * chi phí nhân công trực tiếp
