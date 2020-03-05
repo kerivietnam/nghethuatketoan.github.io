@@ -6,14 +6,14 @@ redirect_from:
   - /docs/quickstart/
   - /docs/extras/
 ---
-Theo luật kế toán: “Kế toán là việc
+Theo **Luật Kế Toán**: “Kế toán là việc
  * Thu thập, 
  * Xử lý, 
  * Kiểm tra, 
  * Phân tích 
  * Cung cấp thông tin kinh tế, tài chính dưới hình thức giá trị, hiện vật và thời gian lao động”.
 
-Cũng theo Luật Kế toán thì kế toán được chia ra 2 loại là <a href="#ketoantaichinh"> kế toán tài chính</a> và <a href="#ketoanquantri" title="Kế toán tài chính"> kế toán quản trị</a>, trong đó:<br/>
+Cũng theo **Luật Kế Toán** thì kế toán được chia ra 2 loại là <a href="#ketoantaichinh"> kế toán tài chính</a> và <a href="#ketoanquantri" title="Kế toán tài chính"> kế toán quản trị</a>, trong đó:<br/>
 <code class="highlighter-rouge"><a id="ketoantaichinh">Kế toán tài chính</a></code> là việc 
  * Thu thập
  * Xử lý
