@@ -35,23 +35,23 @@ Các khoản giảm trừ thường bao gồm 04 khoản sau:
  <p>
  * (1) Doanh thu bán hàng và cung cấp dịch vụ (Mã số 01) : 
 Chỉ tiêu này phản ánh tổng doanh thu bán 
- * Hàng hoá, 
- * Thành phẩm, 
+ * Hàng hoá
+ * Thành phẩm
  * Bất động sản đầu tư 
  * Cung cấp dịch vụ trong năm báo cáo của doanh nghiệp. <br>
 
 * (2) Các khoản giảm trừ doanh thu (Mã số 02): 
 Chỉ tiêu này phản ánh tổng hợp các khoản được ghi giảm trừ vào tổng doanh thu trong năm, bao gồm các khoản: 
- * Chiết khấu thương mại, 
- * Giảm giá hàng bán, 
+ * Chiết khấu thương mại
+ * Giảm giá hàng bán
  * Hàng bán bị trả lại 
  * Thuế tiêu thụ đặc biệt
  * Thuế xuất khẩu... <br>
 
 * (3) Doanh thu thuần về bán hàng và cung cấp dịch vụ (Mã số 10): 
 Chỉ tiêu này phản ánh số doanh thu bán 
- * Hàng hoá, 
- * Thành phẩm, 
+ * Hàng hoá
+ * Thành phẩm
  * BĐS đầu tư 
  * Cung cấp dịch vụ đã trừ các khoản trừ. 
  </p>
