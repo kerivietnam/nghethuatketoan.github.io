@@ -14,16 +14,16 @@ Bảng cân đối kế toán là một báo cáo tài chính tổng hợp, dùn
 
  * **1.2. Tác dụng của Bảng cân đối kế toán**
 Bảng cân đối kế toán có tác dụng quan trọng trong công tác quản lý, căn cứ vào số liệu trình bày trên bảng ta có thể biết được 
-  * Toàn bộ tài sản và
-  * Cơ cấu của tài sản hiện có của doanh nghiệp, 
-  * Tình hình nguồn vốn và cơ cấu của nguồn vốn
+    * Toàn bộ tài sản và
+    * Cơ cấu của tài sản hiện có của doanh nghiệp, 
+    * Tình hình nguồn vốn và cơ cấu của nguồn vốn
 
-Thông qua đó ta có thể đánh giá khái quát 
- * Tình hình tài chính của doanh nghiệp
- * Tình hình và kết quả hoạt động sản xuất kinh doanh, 
- * Trình độ sử dụng vốn, 
- * Triển vọng kinh tế tài chính
- * Sự tăng giảm của nguồn vốn chủ sở hữu của doanh nghiệp
+ * Thông qua đó ta có thể đánh giá khái quát 
+   * Tình hình tài chính của doanh nghiệp
+   * Tình hình và kết quả hoạt động sản xuất kinh doanh, 
+   * Trình độ sử dụng vốn, 
+   * Triển vọng kinh tế tài chính
+   * Sự tăng giảm của nguồn vốn chủ sở hữu của doanh nghiệp
 
 <div class="note info">
  <h5>2. Tính cân đối của Bảng cân đối kế toán </h5>
