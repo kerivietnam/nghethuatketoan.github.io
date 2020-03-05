@@ -34,7 +34,9 @@ Sự hình thành và phát triển của kế toán gắn liền với sự hì
 
 Một số tài liệu nghiên cứu cho thấy lịch sử của kế toán có từ thờithượng cổ, xuất hiện từ 5,6 ngàn năm trước công nguyên. Lịch sử kế toán bắt nguồn trong lịch sử kinh tế, theo đà phát triển của những tiến bộ kinh tế - xã hội.<br/>
 
-Thời kỳ Phục hưng cho phép khám phá ra một kỷ nguyên mới, người ta thấy xuất hiện văn chương kế toán. Một trong những người sáng chế đầu tiên ra các phương pháp kế toán phần kép là một nhà tu dòng **Franciscain** tên là **Luca Pacioli**, ông sinh ra tại một thị trấn nhỏ Borgo san Sepolchro trên sông Tibre vào năm 1445, là một giáo sư về toán và đã soạn thảo ra một tác phẩm vĩ đại tựa như một cuốn tự điển vào năm 1494 về số học, đại số học, toán học thương mại, hình học và kế toán.
+Thời kỳ Phục hưng cho phép khám phá ra một kỷ nguyên mới, người ta thấy xuất hiện *văn chương kế toán*.
+
+Một trong những người sáng chế đầu tiên ra các phương pháp kế toán phần kép là một nhà tu dòng **Franciscain** tên là **Luca Pacioli**, ông sinh ra tại một thị trấn nhỏ Borgo san Sepolchro trên sông Tibre vào năm 1445, là một giáo sư về toán và đã soạn thảo ra một tác phẩm vĩ đại tựa như một cuốn tự điển vào năm 1494 về số học, đại số học, toán học thương mại, hình học và kế toán.
 
 Riêng về phần kế toán, ông đã dành 36 chương về kế toán kép mà theo đó các <code class="highlighter-rouge">tài liệu kế toán</code> như 
  * Phiếu ghi tạm
