@@ -25,5 +25,4 @@ Phương pháp tổng hợp và cân đối kế toán cung cấp những thông
  * quá trình kinh doanh
 
 mà các phương pháp chứng từ, đối ứng tài khoản, tính giá thành phẩm, hàng hoá... không thể cung cấp được
-Những thông tin được xử lý lựa chọn trên các báo cáo kế toán do *phương pháp tổng hợp, cân đối* tạo ra, có ý nghĩa to lớn cho những quyết định quản lý có tính chiến lược trong nhiều mối quan hệ qua lại của các yếu tố, các quá trình, kiểm tra tình hình chấp hành kế hoạch, phát hiện và ngăn ngừa tình trạng mất cân đối và dựa vào kết quả đã thực hiện để điều chỉnh, cụ thể hoá các kế hoạch kinh tế, quản lý một cách tốt hơn việc thực hiện kế hoạch của doanh nghiệp trong các lĩnh vực tài chính và quá trình kinh doanh. 
-
+Những thông tin được xử lý lựa chọn trên các báo cáo kế toán do *phương pháp tổng hợp, cân đối* tạo ra, có ý nghĩa to lớn cho những quyết định quản lý có tính chiến lược trong nhiều mối quan hệ qua lại của các yếu tố, các quá trình, kiểm tra tình hình chấp hành kế hoạch, phát hiện và ngăn ngừa tình trạng mất cân đối và dựa vào kết quả đã thực hiện để điều chỉnh, cụ thể hoá các kế hoạch kinh tế, quản lý một cách tốt hơn việc thực hiện kế hoạch của doanh nghiệp trong các lĩnh vực tài chính và quá trình kinh doanh.
