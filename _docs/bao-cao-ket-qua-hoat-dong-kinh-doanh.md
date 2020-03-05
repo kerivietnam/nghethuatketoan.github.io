@@ -26,31 +26,29 @@ Có thể khái quát chung tính cân đối của báo cáo kết quả kinh d
 
 *Trong đó*:
 
-<code class="highlighter-rouge">
-**Doanh thu thuần** = *Doanh thu tiêu thụ* - *Các khoản giảm trừ*
+<code class="highlighter-rouge">Doanh thu thuần = Doanh thu tiêu thụ - Các khoản giảm trừ
 </code>
 
 Các khoản giảm trừ thường bao gồm 04 khoản sau:
 
-<code class="highlighter-rouge">
-**Các khoản giảm trừ** = 
-*Chiết khấu thương mại* +
-*Giảm giá hàng bán* +
-*Hàng bán bị trả lạ*i +
-*Thuế TTĐB, thuế XK*
+<code class="highlighter-rouge">Các khoản giảm trừ = 
+Chiết khấu thương mại +
+Giảm giá hàng bán +
+Hàng bán bị trả lại +
+Thuế TTĐB, thuế XK
 </code> 
 
 
 ## 2. Nội dung và kết cấu của báo cáo kết quả hoạt động kinh
 
- * 2.1. Doanh thu bán hàng và cung cấp dịch vụ (Mã số 01) : 
+ * **2.1. Doanh thu bán hàng và cung cấp dịch vụ (Mã số 01) :**
 Chỉ tiêu này phản ánh tổng doanh thu bán 
    * Hàng hoá
    * Thành phẩm
    * Bất động sản đầu tư 
    * Cung cấp dịch vụ trong năm báo cáo của doanh nghiệp. <br>
 
-* 2.2. Các khoản giảm trừ doanh thu (Mã số 02): 
+* **2.2. Các khoản giảm trừ doanh thu (Mã số 02):**
 Chỉ tiêu này phản ánh tổng hợp các khoản được ghi giảm trừ vào tổng doanh thu trong năm, bao gồm các khoản: 
    * Chiết khấu thương mại
    * Giảm giá hàng bán
@@ -58,7 +56,7 @@ Chỉ tiêu này phản ánh tổng hợp các khoản được ghi giảm trừ
    * Thuế tiêu thụ đặc biệt
    * Thuế xuất khẩu... <br>
 
-* 2.3. Doanh thu thuần về bán hàng và cung cấp dịch vụ (Mã số 10): 
+* **2.3. Doanh thu thuần về bán hàng và cung cấp dịch vụ (Mã số 10):**
 Chỉ tiêu này phản ánh số doanh thu bán 
    * Hàng hoá
    * Thành phẩm
