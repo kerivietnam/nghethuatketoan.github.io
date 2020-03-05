@@ -17,37 +17,36 @@ Tài khoản là một trang **sổ kế toán** được chia làm 2 phần, ph
 
 ### 2.1. Tài khoản thuộc bảng cân đối kế toán 
 
- ### a) Tài khoản tài sản
+### a) Tài khoản tài sản
 
-```
-+ Số dư đầu kỳ phản ánh thực có về các loại tài sản lúc đầu kỳ 
+
++ **Số dư đầu kỳ** phản ánh thực có về các loại tài sản lúc đầu kỳ 
 được phản ảnh ở cột đầu kỳ của bảng cân đối kế toán sẽ được chuyển 
 thành số dư đầu kỳ của các tài khoản tài sản ở bên Nợ. 
-+ Số tăng lên của tài sản do các nghiệp vụ kinh tế phát sinh tạo ra 
++ **Số tăng lên của tài sản** do các nghiệp vụ kinh tế phát sinh tạo ra 
 làm tăng giá trị tài sản nên được ghi cùng bên với số dư đầu kỳ tức là 
-bên Nợ. 
-+ Số giảm xuống của tài sản do các nghiệp vụ kinh tế phát sinh 
+**bên Nợ**. 
++ **Số giảm xuống của tài sản** do các nghiệp vụ kinh tế phát sinh 
 tạo ra làm giảm giá trị tài sản nên được ghi khác bên với số dư tức là 
-bên Có. 
-+ Số dư cuối kỳ là số tài sản hiện có vào thời điểm cuối kỳ nên 
+**bên Có**. 
++ **Số dư cuối kỳ** là số tài sản hiện có vào thời điểm cuối kỳ nên 
 được liệt kê trên bảng cân đối kế toán cột số cuối kỳ và sẽ trở thành số 
 dư đầu kỳ của tài khoản ở kỳ tiếp theo. 
-```
+
+
 ### b) Tài khoản nguồn vốn
 
-```
-+ Số dư đầu kỳ phản ánh số thực có về các loại nguồn vốn lúc đầu 
++ **Số dư đầu kỳ** phản ánh số thực có về các loại nguồn vốn lúc đầu 
 kỳ được phản ánh ở cột đầu kỳ của bảng cân đối kế toán sẽ được 
 chuyển thành số dư đầu kỳ của các tài khoản nguồn vốn ghi ở bên Có. 
-+ Số tăng lên của nguồn vốn do nghiệp vụ kinh tế phát sinh tạo ra 
-làm tăng giá trị nguồn vốn nên được ghi cùng bên với số dư là bên Có. 
-+ Số giảm xuống của nguồn vốn do nghiệp vụ kinh tế phát sinh 
++ **Số tăng lên của nguồn vốn do nghiệp vụ kinh tế phát sinh** tạo ra 
+làm tăng giá trị nguồn vốn nên được ghi cùng bên với số dư là **bên Có**. 
++ **Số giảm xuống của nguồn vốn do nghiệp vụ kinh tế phát sinh** 
 tạo ra làm giảm giá trị nguồn vốn được ghi khác bên với số dư tức là 
-bên Nợ. 
-+ Số dư cuối kỳ là nguồn vốn hiện có vào thời điểm cuối kỳ nên 
+**bên Nợ**. 
++ **Số dư cuối kỳ là nguồn vốn hiện có vào thời điểm cuối kỳ** nên 
 sẽ được phản ánh trên bảng cân đối kế toán cột số cuối kỳ và sẽ trở 
 thành số dư đầu kỳ của tài khoản ở kỳ sau. 
-```
 
 <div class="note">
  <h5>2.2. Tài khoản thuộc báo cáo kết quả hoạt động kinh doanh </h5>
