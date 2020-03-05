@@ -44,7 +44,7 @@ Chỉ tiêu này được lập căn cứ vào
  * chi mua chứng khoán vì mục đích thương mại (nếu có) 
  * kể cả số tiền đã trả cho các khoản nợ phải trả liên quan đến 
    * giao dịch mua hàng hoá, 
-   * dịch vụ phát si
+   * dịch vụ phát sinh
 
 từ các kỳ trước nhưng kỳ này mới trả tiền và số tiền chi ứng trước cho người cung cấp hàng hoá, dịch vụ. 
 
