@@ -15,10 +15,9 @@ Nó cung cấp thông tin giúp người sử dụng đánh giá các thay đổ
  * Tài sản thuần
  * Cơ cấu tài chính
  * Khả năng chuyển đổi của tài sản thành tiền
- * Khả năng thanh toán và khả năng của doanh nghiệp trong việc tạo ra các luồng tiền
+ * Khả năng thanh toán và khả năng của doanh nghiệp trong việc tạo ra các luồng tiền trong quá trình hoạt động
 
-trong quá trình hoạt động
- * **Báo cáo lưu chuyển tiền tệ** làm tăng khả năng đánh giá khách quan tình hình *hoạt động kinh doanh* của doanh nghiệp và khả năng so sánh giữa các doanh nghiệp vì nó loại trừ được các ảnh hưởng của việc sử dụng các <a href="https://nghethuatketoan.vn/docs/step-by-step/01-phuong-phap-chung-tu-ke-toan/" title="Phương pháp kế toán">phương pháp kế toán </a>khác nhau cho cùng giao dịch và hiện tượng. 
+**Báo cáo lưu chuyển tiền tệ** làm tăng khả năng đánh giá khách quan tình hình <a href="https://nghethuatketoan.vn/docs/bao-cao-ket-qua-hoat-dong-kinh-doanh/" title="Hoạt động kinh doanh">*hoạt động kinh doanh*</a> của doanh nghiệp và khả năng so sánh giữa các doanh nghiệp vì nó loại trừ được các ảnh hưởng của việc sử dụng các <a href="https://nghethuatketoan.vn/docs/step-by-step/01-phuong-phap-chung-tu-ke-toan/" title="Phương pháp kế toán">phương pháp kế toán </a>khác nhau cho cùng giao dịch và hiện tượng. 
 
 
 <div class="note">
