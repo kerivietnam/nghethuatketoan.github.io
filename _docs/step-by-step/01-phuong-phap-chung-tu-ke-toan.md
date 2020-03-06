@@ -7,11 +7,11 @@ position: 1
 
 Phương pháp từ kế toán là phương pháp thông tin và kiểm tra sự hình thành các nghiệp vụ kinh tế.<br/>
 Để phản ánh và có thể kiểm chứng được các nghiệp vụ kinh tế, kế toán có một phương pháp là: 
- * mọi nghiệp vụ kinh tế phát sinh đều phải lập các chứng từ là giấy tờ 
+ * Mọi nghiệp vụ kinh tế phát sinh đều phải lập các chứng từ là giấy tờ 
  
 hoặc 
 
- * vật chứa đựng thông tin (vật mang tin), làm bằng chứng xác nhận sự phát sinh và hoàn thành của các nghiệp vụ kinh tế.<br/>
+ * Vật chứa đựng thông tin (vật mang tin), làm bằng chứng xác nhận sự phát sinh và hoàn thành của các nghiệp vụ kinh tế.<br/>
  
 Phương pháp chứng từ kế toán nhằm sao chụp nguyên tình trạng và sự vận động của các đối kế toán, được sử dụng để phản ánh các *nghiệp vụ kinh tế tài chính phát sinh* và thực sự hoàn thành theo thời gian, địa điểm phát sinh vào các bản <a href="https://nghethuatketoan.vn/docs/chung-tu-ke-toan/" title="Chứng từ kế toán">chứng từ kế toán</a>.
 Hệ thống chứng từ kế toán là căn cứ pháp lý cho việc bảo vệ tài sản và xác minh tính hợp pháp trong việc giải quyết các mối quan hệ kinh tế pháp lý thuộc đối tượng hạch toán kế toán, kiểm tra hoạt động sản xuất kinh doanh. 
