@@ -25,16 +25,16 @@ là toàn bộ các khoản mà đơn vị đã chi để có quyền sử dụn
 pháp, bao gồm cả các khoản chi có liên quan đến việc đền bù, giải 
 phóng mặt bằng, san lấp mặt bằng, lệ phí trước bạ,... <br>
 
- * <code> <a href="#">Quyền phát hành, bản quyền, bằng sáng chế:</a></code> Nguyên giá là toàn 
+ * <code> <a href="javascript:void(0);">Quyền phát hành, bản quyền, bằng sáng chế:</a></code> Nguyên giá là toàn 
 bộ các khoản mà đơn vị đã chi để có* quyền phát hành*, *bản quyền*, 
 *bằng sáng chế* <br>
 
- * <code> <a href="#">Nhãn hiệu hàng hoá:</a></code> Nguyên giá là toàn bộ các khoản mà đơn vị 
+ * <code> <a href="javascript:void(0);">Nhãn hiệu hàng hoá:</a></code> Nguyên giá là toàn bộ các khoản mà đơn vị 
 đã chi thực tế để có *nhãn hiệu hàng hoá* <br>
 
- * <code><a href="#">Phần mềm máy vi tính:</a></code> Nguyên giá là toàn bộ các khoản mà đơn vị đã chi để có phần mềm máy tính. <br>\
+ * <code><a href="javascript:void(0);">Phần mềm máy vi tính:</a></code> Nguyên giá là toàn bộ các khoản mà đơn vị đã chi để có phần mềm máy tính. <br>
 
- * <a href="#">Tài sản cố định vô hình khác</a> <br>
+ * <a href="javascript:void(0);">Tài sản cố định vô hình khác</a> <br>
 
 Một cách chung nhất, nguyên giá tài sản cố định vô hình là toàn bộ các khoản chi thực tế mà doanh nghiệp đã phải chi ra để có được tài sản cố định ấy.
 
