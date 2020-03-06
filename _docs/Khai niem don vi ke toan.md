@@ -23,9 +23,9 @@ Tức là giá trị tài sản hiện còn là tính theo số tiền mà thự
 Mặt khác giả thiết về sự hoạt động lâu dài của doanh nghiệp còn là cơ sở cho các phương pháp tính khấu hao để phân chia giá phí của các loại tài sản cố định vào chi phí hoạt động của doanh nghiệp theo thời gian sử dụng của nó. 
 
 ## Khái niệm kỳ kế toán
-Thông thường, kỳ kế toán chính được tính theo năm dương lịch từ ngày 01 tháng 01 đến hết ngày 31 tháng 12 của năm. .<br/>
+Thông thường, kỳ kế toán chính được tính theo năm dương lịch <a href="javascript:void(0);">từ ngày 01 tháng 01 đến hết ngày 31 tháng 12 của năm. </a><br/>
 Trong từng năm có thể phân thành **các kỳ tạm thời như tháng, quý**. .<br/>
-Thời gian để tính kỳ tạm thời là ngày đầu tiên của tháng, quý đến hết ngày cuối cùng của tháng, quý đó. .<br/>
+Thời gian để tính <a href="javascript:void(0);">kỳ tạm thời là ngày đầu tiên của tháng, quý đến hết ngày cuối cùng của tháng, quý đó</a> .<br/>
 Trong chế độ kế toán doanh nghiệp ngoài kỳ kế toán tính theo năm dương lịch, trong những trường hợp đặc biệt, doanh nghiệp có thể tính theo 12 tháng tròn sau khi đã thông báo cho cơ quan thuế và được phép thay đổi ngày kết thúc kỳ kế toán năm..<br/>
 
 Việc thay đổi này có thể dẫn đến việc lập báo cáo tài chính cho kỳ kế toán năm đầu tiên hay năm cuối cùng ngắn hơn hoặc dài hơn.12 tháng, nhưng không được vượt quá 15 tháng. 
