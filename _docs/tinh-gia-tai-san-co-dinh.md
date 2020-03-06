@@ -6,7 +6,7 @@ redirect_from:
 ---
 
 <div class="note">
-<h5>## 1. Tài sản cố định hữu hình</h5>
+<h5>1. Tài sản cố định hữu hình</h5>
 </div>
 
 ### Chi phí trước đi sử dụng thường bao gồm: 
@@ -18,7 +18,7 @@ chạy thử, thuế và lệ phí trước bạ nếu có...
 
 
 
-<div class="note info">## 2. Tài sản cố định vô hình </div>
+<div class="note info">2. Tài sản cố định vô hình </div>
 ## Là những tài sản cố định không có hình thái vật chất, thường bao gồm:
  * <code>Quyền sử dụng đất:</a></code> Nguyên giá của TSCĐ là quyền sử dụng đất 
 là toàn bộ các khoản mà đơn vị đã chi để có quyền sử dụng đất hợp 
