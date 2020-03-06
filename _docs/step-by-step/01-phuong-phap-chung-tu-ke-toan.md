@@ -1,6 +1,6 @@
 ---
 layout: step
-title: 1. Phương pháp chứng từ kế toán
+title: Phương pháp chứng từ kế toán
 menu_name: Phương Pháp Kế Toán
 position: 1
 ---
