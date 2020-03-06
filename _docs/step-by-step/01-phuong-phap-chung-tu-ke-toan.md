@@ -18,7 +18,7 @@ Hệ thống chứng từ kế toán là căn cứ pháp lý cho việc bảo v�
 
 ## 2. Phương pháp tính giá 
 Tính giá là phương pháp thông tin và kiểm tra về chi phí trực tiếp và gián tiếp cho từng loại hoạt động, từng loại tài sản như:
- * Tài sản cố định, 
+ * <a href="https://nghethuatketoan.vn/docs/tinh-gia-tai-san-co-dinh/" title="Cách tính giá tài sản cố định">Tài sản cố định</a>, 
  * Hàng hoá, 
  * Vật tư, 
  * Sản phẩm
