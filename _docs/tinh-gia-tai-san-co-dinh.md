@@ -26,7 +26,7 @@ pháp, bao gồm cả các khoản chi có liên quan đến việc đền bù, 
 phóng mặt bằng, san lấp mặt bằng, lệ phí trước bạ,... <br>
 
  * <code> <a href="javascript:void(0);">Quyền phát hành, bản quyền, bằng sáng chế:</a></code> Nguyên giá là toàn 
-bộ các khoản mà đơn vị đã chi để có* quyền phát hành*, *bản quyền*, 
+bộ các khoản mà đơn vị đã chi để có *quyền phát hành*, *bản quyền*, 
 *bằng sáng chế* <br>
 
  * <code> <a href="javascript:void(0);">Nhãn hiệu hàng hoá:</a></code> Nguyên giá là toàn bộ các khoản mà đơn vị 
