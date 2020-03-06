@@ -3,8 +3,8 @@ title: Khái Niệm Đơn Vị Kế Toán
 permalink: /docs/Khai-niem-don-vi-ke-toan/
 ---
 
-<a href="javascript:void(0);">Khái niệm đơn vị kế toán</a> tương đồng với<a href="javascript:void(0);"> khái niệm đơn vị kinh doanhn</a. Theo khái niệm này, thông tin tài chính được phản ánh cho một đơn vị kế toán cụ thể.<br/>
-<a href="javascript:void(0);">Mỗi đơn vị kinh tế</a> riêng biệt phải được<a href="javascript:void(0);"> phân biệt là một đơn vị kế toán độc lậ</a>p, có bộ báo cáo tài chính của riêng mình.<br/>
+<a href="javascript:void(0);">Khái niệm đơn vị kế toán</a> tương đồng với<a href="javascript:void(0);"> khái niệm đơn vị kinh doanhn</a>. Theo khái niệm này, thông tin tài chính được phản ánh cho một đơn vị kế toán cụ thể.<br/>
+<a href="javascript:void(0);">Mỗi đơn vị kinh tế</a> riêng biệt phải được<a href="javascript:void(0);"> phân biệt là một đơn vị kế toán độc lập</a>, có bộ báo cáo tài chính của riêng mình.<br/>
 
 Khái niệm đơn vị kế toán đòi hỏi các báo cáo tài chính được lập chỉ phản ánh các thông tin về tình hình tài chính của đơn vị kế toán mà không bao hàm thông tin tài chính về các chủ thể kinh tế khác như tài sản riêng của chủ sở hữu hay các thông tin tài chính của các đơn vị kinh tế độc lập khác.<br/>
 Nói cách khác khái niệm đơn vị kế toán quy định giới hạn về thông tin tài chính mà hệ thống kế toán cần phải thu thập và báo cáo.
